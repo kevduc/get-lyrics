@@ -40,7 +40,7 @@ const lyricstranslateAPI = {
           "sec-fetch-site": "same-origin",
           "x-requested-with": "XMLHttpRequest",
         },
-        body: `id=custom-${customId}`,
+        body: `id=${customId}`,
         method: "POST",
         mode: "cors",
       }
@@ -50,41 +50,117 @@ const lyricstranslateAPI = {
 
 (async () => {
   let url = "https://lyricstranslate.com/en/tamer-hosny-lyrics.html";
-  let songs = await getSongs(url);
-  let lyrics = await getLyrics(url);
+  let data = await getData(url);
 })();
 
 // Helper functions
 
-function getFilenameFromURL(url) {
-  return url
-    .replace("https://lyricstranslate.com/", "")
-    .replace(/\.html$/, "")
-    .replace(/[^a-zA-Z]/g, "-");
+function getArtistFromURL(url) {
+  return url.match(/\/([^\/]*?)-lyrics\.html$/)[1].replace(/[^a-zA-Z\-]/g, "-");
 }
 
-async function getLyrics(url) {}
+async function getData(url) {
+  const artist = getArtistFromURL(url);
 
-async function getSongs(url) {
-  const filename = getFilenameFromURL(url);
-
-  // Get songs
-  let songs = null;
-  const songsFilename = `${filename}.songs.json`;
+  // Get data
+  let data;
+  const songsFilename = `${artist}.json`;
 
   if (fs.existsSync(`${dataFolder}/${songsFilename}`)) {
     // Read from file
     let rawdata = fs.readFileSync(`${dataFolder}/${songsFilename}`);
-    songs = JSON.parse(rawdata);
+    data = JSON.parse(rawdata);
   } else {
     // Get from the internet
-    songs = await extractSongsFromArtistPage(url);
-    // Save songs data in file
-    let rawdata = JSON.stringify(songs);
+    console.log(`Dowloading songs data for ${artist}...`);
+    data = {
+      artist,
+      lyricsDownloaded: false,
+      songs: await extractSongsFromArtistPage(url),
+    };
+    // Save data in file
+    let rawdata = JSON.stringify(data);
     fs.writeFileSync(`${dataFolder}/${songsFilename}`, rawdata);
   }
 
-  return songs;
+  if (!data.lyricsDownloaded) {
+    console.log(`Dowloading lyrics for ${artist}...`);
+    for (song of data.songs) {
+      // Original song
+      let songData = await getLyricsFromId(song.id);
+      song.lyrics = songData.lyrics;
+      song.title = songData.title;
+
+      // Transliteration
+      let transliterationData = await getTransliterationFromId(
+        song.transliteration.id
+      );
+      song.transliteration.lyrics = transliterationData.lyrics;
+      song.transliteration.title = transliterationData.title;
+
+      // English translation
+      for (englishTranslation of song.englishTranslations) {
+        let englishTranslationData = await getLyricsFromId(
+          englishTranslation.id
+        );
+        englishTranslation.lyrics = englishTranslationData.lyrics;
+        englishTranslation.title = englishTranslationData.title;
+      }
+    }
+
+    data.lyricsDownloaded = true;
+
+    // Save data in file
+    let rawdata = JSON.stringify(data);
+    fs.writeFileSync(`${dataFolder}/${songsFilename}`, rawdata);
+  }
+
+  return data;
+}
+
+async function getLyricsFromId(id) {
+  let data = { title: null, lyrics: null };
+  if (id === null) return data;
+
+  let lyricsData = await lyricstranslateAPI.getLyrics(id);
+  if (lyricsData.status !== 1) {
+    console.warn(`Failed to get lyrics for id ${id}.`);
+    return data;
+  }
+
+  let verses = extractVerses(lyricsData.data);
+
+  return {
+    title: JSDOM.fragment(lyricsData.title).textContent,
+    lyrics: verses,
+  };
+}
+
+async function getTransliterationFromId(id) {
+  let data = { title: null, lyrics: null };
+  if (id === null) return data;
+
+  let transliterationData = await lyricstranslateAPI.getTransliteration(id);
+  if (transliterationData === null) {
+    console.warn(`Failed to get transliteration lyrics for id ${id}.`);
+    return data;
+  }
+
+  let verses = extractVerses(transliterationData.body);
+
+  return { title: transliterationData.title, lyrics: verses };
+}
+
+function extractVerses(html) {
+  let lyricsBody = JSDOM.fragment(html);
+  let verses = Array.from(lyricsBody.querySelectorAll('[class^="ll-"]')).map(
+    (div) => ({
+      id: div.className.replace("ll-", ""),
+      text: div.textContent,
+    })
+  );
+
+  return verses;
 }
 
 async function extractSongsFromArtistPage(url) {
@@ -97,7 +173,7 @@ async function extractSongsFromArtistPage(url) {
   // Get IDs for each song
   for (let song of songs) {
     song.id = null;
-    song.transliterationId = null;
+    song.transliteration = { id: null };
 
     for (let englishTranslation of song.englishTranslations) {
       const link = englishTranslation.link;
@@ -107,16 +183,16 @@ async function extractSongsFromArtistPage(url) {
       // Set song ID and transliteration ID
       if (song.id === null) {
         song.id = IDs.songId;
-        song.transliterationId = IDs.transliterationId;
+        song.transliteration.id = IDs.transliterationId;
       } else {
         if (IDs.songId !== song.id)
           console.warn(
             `Ignoring song ID ${IDs.songId}: Mismatch (${song.id}) for ${link}.`
           );
 
-        if (IDs.transliterationId !== song.transliterationId)
+        if (IDs.transliterationId !== song.transliteration.id)
           console.warn(
-            `Ignoring transliteration ID ${IDs.transliterationId}: Mismatch (${song.transliterationId}) for ${link}.`
+            `Ignoring transliteration ID ${IDs.transliterationId}: Mismatch (${song.transliteration.id}) for ${link}.`
           );
       }
 
