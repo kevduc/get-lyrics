@@ -1,0 +1,74 @@
+{
+  "artist": "ahmed-el-attar",
+  "lyricsDownloaded": true,
+  "songs": [
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Ahmed-El-Attar-Ayami-elly-gayya-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/Ayami-elly-gayya-Ayami-elly-gayya.html",
+          "id": "127521",
+          "lyrics": [
+            { "id": "0-1", "text": "year" },
+            { "id": "1-1", "text": "after year" },
+            { "id": "2-1", "text": "and I'm still the same" },
+            { "id": "3-1", "text": "loving u sooooooo much" },
+            { "id": "4-1", "text": "why ?" },
+            { "id": "5-1", "text": "my love , u and I" },
+            { "id": "6-1", "text": "our time is passing by" },
+            {
+              "id": "7-1",
+              "text": "you're my heart , my soul , my life and my next days"
+            },
+            {
+              "id": "8-1",
+              "text": "my love , if u accepted to take my life , that wouldn't be enough"
+            },
+            { "id": "9-1", "text": "feel me , and see in my eyes" },
+            { "id": "10-1", "text": "my yearning to u , is filling my heart" },
+            { "id": "11-1", "text": "give me your hands" },
+            { "id": "12-1", "text": "and don't let go" },
+            { "id": "13-1", "text": "that fast !!!" },
+            { "id": "13-2", "text": "\nI loved u that much !!!!!" },
+            { "id": "14-1", "text": "my love , come close to me" },
+            { "id": "15-1", "text": "I miss ur eyes" },
+            { "id": "16-1", "text": "promise me" },
+            { "id": "17-1", "text": "that u're gonna be here next to me" },
+            { "id": "18-1", "text": "you're my life , and my life" },
+            { "id": "19-1", "text": "is only for u" }
+          ],
+          "title": "Ayami elly gayya"
+        }
+      ],
+      "id": "127520",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "سنة بتعدي وراها سنة" },
+        { "id": "0-2", "text": "\nوانا لسه زي ما أنا" },
+        { "id": "0-3", "text": "\nبحبك موت" },
+        { "id": "0-4", "text": "\nطب ليه كده" },
+        { "id": "0-5", "text": "\nتتعبني معاك كده" },
+        { "id": "0-6", "text": "\nيا حبيبي أنا وإنت كدا" },
+        { "id": "0-7", "text": "\nعمرنا بيفوت" },
+        { "id": "1-1", "text": "ده أنت قلبي وروحي" },
+        { "id": "1-2", "text": "\nوعمري وأيامي اللي جاية" },
+        { "id": "1-3", "text": "\nحبيبي لو ترضي تاخد عمري" },
+        { "id": "1-4", "text": "\nبرضه عليك شوية" },
+        { "id": "1-5", "text": "\nحس بيا وشوف في عنيا" },
+        { "id": "1-6", "text": "\nشوقي ليك يا كل ما ليا" },
+        { "id": "1-7", "text": "\nمد ايدك خليها في إيديا" },
+        { "id": "1-8", "text": "\nوأوعي تسيبها ثانية" },
+        { "id": "2-1", "text": "قوام كده" },
+        { "id": "2-2", "text": "\nحبيتك كل ده" },
+        { "id": "2-3", "text": "\nيا حبيبي قربلي بقى" },
+        { "id": "2-4", "text": "\nوحشاني عنيـك" },
+        { "id": "2-5", "text": "\nأوعدني أنا" },
+        { "id": "2-6", "text": "\nهتخليك جنبي هنا" },
+        { "id": "2-7", "text": "\nوأنا عمري يا عمري أنا" },
+        { "id": "2-8", "text": "\nما هكون غير ليك" }
+      ],
+      "title": "أيامي اللي جاية"
+    }
+  ]
+}

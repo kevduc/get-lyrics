@@ -8,6 +8,116 @@ Node.TEXT_NODE = 3;
 
 const dataFolder = "./data";
 
+(async () => {
+  let urls = [
+    "https://lyricstranslate.com/en/amr-diab-lyrics.html",
+    "https://lyricstranslate.com/en/tamer-hosny-lyrics.html",
+    "https://lyricstranslate.com/en/oum-kalthoum-lyrics.html",
+    "https://lyricstranslate.com/en/sherine-ahmad-lyrics.html",
+    "https://lyricstranslate.com/en/abdel-halim-hafez-lyrics.html",
+    "https://lyricstranslate.com/en/mohammed-hamaki-lyrics.html",
+    "https://lyricstranslate.com/en/mostafa-atef-lyrics.html",
+    "https://lyricstranslate.com/en/muhammad-tarek-muhammad-youssef-lyrics.html",
+    "https://lyricstranslate.com/en/cairokee-lyrics.html",
+    "https://lyricstranslate.com/en/hamza-namira-lyrics.html",
+    "https://lyricstranslate.com/en/mohamed-mounir-lyrics.html",
+    "https://lyricstranslate.com/en/ehab-tawfik-lyrics.html",
+    "https://lyricstranslate.com/en/hani-shaker-lyrics.html",
+    "https://lyricstranslate.com/en/hossam-habib-lyrics.html",
+    "https://lyricstranslate.com/en/ramy-sabry-lyrics.html",
+    "https://lyricstranslate.com/en/mohammed-fouad-lyrics.html",
+    "https://lyricstranslate.com/en/hamada-helal-lyrics.html",
+    "https://lyricstranslate.com/en/humood-al-khudher-lyrics.html",
+    "https://lyricstranslate.com/en/amal-maher-lyrics.html",
+    "https://lyricstranslate.com/en/tamer-ashour-lyrics.html",
+    "https://lyricstranslate.com/en/donia-samir-ghanem-lyrics.html",
+    "https://lyricstranslate.com/en/hisham-abbas-lyrics.html",
+    "https://lyricstranslate.com/en/hakim-lyrics.html",
+    "https://lyricstranslate.com/en/mohammed-abdel-wahab-lyrics.html",
+    "https://lyricstranslate.com/en/moustafa-amar-lyrics.html",
+    "https://lyricstranslate.com/en/najat-al-saghira-lyrics.html-0",
+    "https://lyricstranslate.com/en/ramy-gamal-lyrics.html",
+    "https://lyricstranslate.com/en/mahmoud-el-esseily-lyrics.html",
+    "https://lyricstranslate.com/en/carmen-soliman-lyrics.html",
+    "https://lyricstranslate.com/en/muhammed-ramadan-lyrics.html",
+    "https://lyricstranslate.com/en/baha-soltan-lyrics.html",
+    "https://lyricstranslate.com/en/el-joker-lyrics.html",
+    "https://lyricstranslate.com/en/saad-el-soghayar-lyrics.html",
+    "https://lyricstranslate.com/en/haytham-shaker-lyrics.html",
+    "https://lyricstranslate.com/en/angham-lyrics.html",
+    "https://lyricstranslate.com/en/mostafa-kamel-lyrics.html",
+    "https://lyricstranslate.com/en/ruby-lyrics.html",
+    "https://lyricstranslate.com/en/hassan-el-shafei-ft-ahmed-sheba-lyrics.html",
+    "https://lyricstranslate.com/en/moustafa-hagag-lyrics.html",
+    "https://lyricstranslate.com/en/mohamed-nour-lyrics.html",
+    "https://lyricstranslate.com/en/hassan-al-asmar-lyrics.html",
+    "https://lyricstranslate.com/en/zap-tharwat-lyrics.html",
+    "https://lyricstranslate.com/en/abou-el-leef-lyrics.html",
+    "https://lyricstranslate.com/en/yasmine-niazy-lyrics.html",
+    "https://lyricstranslate.com/en/haytham-said-lyrics.html",
+    "https://lyricstranslate.com/en/oka-wi-ortega-lyrics.html",
+    "https://lyricstranslate.com/en/amr-moustafa-lyrics.html-0",
+    "https://lyricstranslate.com/en/wama-band-lyrics.html",
+    "https://lyricstranslate.com/en/ramy-essam-lyrics.html",
+    "https://lyricstranslate.com/en/ayda-al-ayoubi-lyrics.html",
+    "https://lyricstranslate.com/en/fayza-ahmed-lyrics.html",
+    "https://lyricstranslate.com/en/sharmoofers-lyrics.html",
+    "https://lyricstranslate.com/en/ahmed-gamal-lyrics.html",
+    "https://lyricstranslate.com/en/issaf-lyrics.html",
+    "https://lyricstranslate.com/en/ali-hassan-kuban-lyrics.html",
+    "https://lyricstranslate.com/en/khaled-selim-lyrics.html",
+    "https://lyricstranslate.com/en/wust-el-balad-lyrics.html",
+    "https://lyricstranslate.com/en/marwa-nasr-lyrics.html",
+    "https://lyricstranslate.com/en/mohamed-adawaya-lyrics.html",
+    "https://lyricstranslate.com/en/soma-lyrics.html",
+    "https://lyricstranslate.com/en/sherine-wagdy-lyrics.html",
+    "https://lyricstranslate.com/en/abd-el-basset-hamouda-lyrics.html",
+    "https://lyricstranslate.com/en/hameed-al-shaery-lyrics.html",
+    "https://lyricstranslate.com/en/somaya-lyrics.html",
+    "https://lyricstranslate.com/en/maya-kassab-lyrics.html",
+    "https://lyricstranslate.com/en/maryam-saleh-lyrics.html",
+    "https://lyricstranslate.com/en/khaled-ajaj-lyrics.html-0",
+    "https://lyricstranslate.com/en/sandy-arabic-lyrics.html",
+    "https://lyricstranslate.com/en/layla-morad-lyrics.html",
+    "https://lyricstranslate.com/en/massar-egbari-lyrics.html",
+    "https://lyricstranslate.com/en/hamza-el-din-lyrics.html",
+    "https://lyricstranslate.com/en/kareem-abou-zeid-lyrics.html",
+    "https://lyricstranslate.com/en/%D8%AD%D8%B3%D9%86-%D8%B4%D8%A7%D9%83%D9%88%D8%B4-lyrics.html",
+    "https://lyricstranslate.com/en/loai-lyrics.html",
+    "https://lyricstranslate.com/en/fatme-serhan-lyrics.html",
+    "https://lyricstranslate.com/en/ahmed-adaweya-lyrics.html",
+    "https://lyricstranslate.com/en/amina-lyrics.html",
+    "https://lyricstranslate.com/en/tarek-el-sheikh-lyrics.html",
+    "https://lyricstranslate.com/en/fady-badr-lyrics.html",
+    "https://lyricstranslate.com/en/medhat-saleh-lyrics.html",
+    "https://lyricstranslate.com/en/amir-mounib-lyrics.html",
+    "https://lyricstranslate.com/en/akmal-lyrics.html",
+    "https://lyricstranslate.com/en/ahmed-el-attar-lyrics.html",
+    "https://lyricstranslate.com/en/tamer-seif-lyrics.html",
+    "https://lyricstranslate.com/en/waleed-saad-lyrics.html",
+    "https://lyricstranslate.com/en/mohammed-mohie-lyrics.html",
+    "https://lyricstranslate.com/en/karim-mohsen-lyrics.html",
+    "https://lyricstranslate.com/en/abu-lyrics.html",
+    "https://lyricstranslate.com/en/better-life-team-lyrics.html",
+    "https://lyricstranslate.com/en/yasser-lyrics.html",
+    "https://lyricstranslate.com/en/dina-el-wedidi-lyrics.html",
+    "https://lyricstranslate.com/en/ahmed-sheba-lyrics.html",
+    "https://lyricstranslate.com/en/ahmed-brada-lyrics.html",
+    "https://lyricstranslate.com/en/islam-zaki-lyrics.html",
+    "https://lyricstranslate.com/en/yasmine-al-goharey-lyrics.html",
+    "https://lyricstranslate.com/en/layla-ghofran-lyrics.html",
+    "https://lyricstranslate.com/en/shadia-lyrics.html",
+    "https://lyricstranslate.com/en/magdy-sa3ad-lyrics.html",
+    "https://lyricstranslate.com/en/sherif-mekway-lyrics.html",
+    "https://lyricstranslate.com/en/haytham-fahmy-lyrics.html",
+  ];
+  for (let url of urls) {
+    let data = await getData(url);
+  }
+})();
+
+// Helper functions
+
 const lyricstranslateAPI = {
   getLyrics: async (nid) => {
     return await fetch(
@@ -48,61 +158,82 @@ const lyricstranslateAPI = {
   },
 };
 
-(async () => {
-  let url = "https://lyricstranslate.com/en/tamer-hosny-lyrics.html";
-  let data = await getData(url);
-})();
-
-// Helper functions
-
 function getArtistFromURL(url) {
-  return url.match(/\/([^\/]*?)-lyrics\.html$/)[1].replace(/[^a-zA-Z\-]/g, "-");
+  return getURLPage(url)
+    .replace("-lyrics.html", "")
+    .replace(/[^a-zA-Z\-]/g, "-");
 }
 
 async function getData(url) {
   const artist = getArtistFromURL(url);
+  console.log(`--- ${artist} ---`);
 
   // Get data
   let data;
   const songsFilename = `${artist}.json`;
+  const songsFile = `${dataFolder}/${songsFilename}`;
 
-  if (fs.existsSync(`${dataFolder}/${songsFilename}`)) {
+  if (fs.existsSync(songsFile)) {
+    console.log(`Songs data for ${artist} already downloaded.`);
+    console.log(`Reading songs data for ${artist} from file ${songsFile} ...`);
     // Read from file
-    let rawdata = fs.readFileSync(`${dataFolder}/${songsFilename}`);
+    let rawdata = fs.readFileSync(songsFile);
     data = JSON.parse(rawdata);
+    console.log(`Read songs data for ${artist} .`);
   } else {
     // Get from the internet
-    console.log(`Dowloading songs data for ${artist}...`);
+    console.log(`Dowloading songs data for ${artist} ...`);
     data = {
       artist,
       lyricsDownloaded: false,
       songs: await extractSongsFromArtistPage(url),
     };
+    console.log(`Dowloaded songs data for ${artist} .`);
     // Save data in file
+    console.log(`Saving songs data for ${artist} to file ${songsFile} ...`);
     let rawdata = JSON.stringify(data);
-    fs.writeFileSync(`${dataFolder}/${songsFilename}`, rawdata);
+    fs.writeFileSync(songsFile, rawdata);
+    console.log(`Saved songs data for ${artist} to file ${songsFile} .`);
   }
 
   if (!data.lyricsDownloaded) {
-    console.log(`Dowloading lyrics for ${artist}...`);
+    console.log(`Dowloading lyrics for ${artist} ...`);
     for (song of data.songs) {
       // Original song
-      let songData = await getLyricsFromId(song.id);
+      // console.debug(`Dowloading lyrics for song ${getURLPage(song.link)} ...`);
+      const songData = await getLyricsFromId(song.id);
+      // console.debug(`Dowloaded lyrics for song ${getURLPage(song.link)} .`);
       song.lyrics = songData.lyrics;
       song.title = songData.title;
 
       // Transliteration
-      let transliterationData = await getTransliterationFromId(
+      // console.debug(
+      //   `Dowloading transliteration for song ${getURLPage(song.link)} ...`
+      // );
+      const transliterationData = await getTransliterationFromId(
         song.transliteration.id
       );
+      // console.debug(
+      //   `Dowloaded transliteration for song ${getURLPage(song.link)} .`
+      // );
       song.transliteration.lyrics = transliterationData.lyrics;
       song.transliteration.title = transliterationData.title;
 
       // English translation
-      for (englishTranslation of song.englishTranslations) {
-        let englishTranslationData = await getLyricsFromId(
+      for (let englishTranslation of song.englishTranslations) {
+        // console.debug(
+        //   `Dowloading english translation ${getURLPage(
+        //     englishTranslation.link
+        //   )} for song ${getURLPage(song.link)} ...`
+        // );
+        const englishTranslationData = await getLyricsFromId(
           englishTranslation.id
         );
+        // console.debug(
+        //   `Dowloaded ${getURLPage(
+        //     englishTranslation.link
+        //   )} for song ${getURLPage(song.link)} .`
+        // );
         englishTranslation.lyrics = englishTranslationData.lyrics;
         englishTranslation.title = englishTranslationData.title;
       }
@@ -112,7 +243,9 @@ async function getData(url) {
 
     // Save data in file
     let rawdata = JSON.stringify(data);
-    fs.writeFileSync(`${dataFolder}/${songsFilename}`, rawdata);
+    fs.writeFileSync(songsFile, rawdata);
+  } else {
+    console.log(`Lyrics for ${artist} already downloaded.`);
   }
 
   return data;
@@ -124,7 +257,9 @@ async function getLyricsFromId(id) {
 
   let lyricsData = await lyricstranslateAPI.getLyrics(id);
   if (lyricsData.status !== 1) {
-    console.warn(`Failed to get lyrics for id ${id}.`);
+    console.warn(
+      `Failed to get lyrics for id ${id}: ${JSON.stringify(lyricsData)}`
+    );
     return data;
   }
 
@@ -142,7 +277,11 @@ async function getTransliterationFromId(id) {
 
   let transliterationData = await lyricstranslateAPI.getTransliteration(id);
   if (transliterationData === null) {
-    console.warn(`Failed to get transliteration lyrics for id ${id}.`);
+    console.warn(
+      `Failed to get transliteration lyrics for id ${id}: ${JSON.stringify(
+        transliterationData
+      )}`
+    );
     return data;
   }
 
@@ -163,9 +302,11 @@ function extractVerses(html) {
   return verses;
 }
 
+/// Songs Data
+
 async function extractSongsFromArtistPage(url) {
   // Get data for each song
-  let songs = await extractSongsDataFromPage(url);
+  let songs = await extractSongsDataFromArtistPage(url);
 
   // Drop songs with no english translation
   songs = songs.filter((song) => song.englishTranslations.length > 0);
@@ -178,7 +319,12 @@ async function extractSongsFromArtistPage(url) {
     for (let englishTranslation of song.englishTranslations) {
       const link = englishTranslation.link;
       // Get IDs
-      let IDs = await extractIDsFromPage(link);
+      console.debug(
+        `   Extracting IDs for song ${getURLPage(
+          song.link
+        )}, english translation ${getURLPage(link)} ...`
+      );
+      let IDs = await extractIDsFromSongPage(link);
 
       // Set song ID and transliteration ID
       if (song.id === null) {
@@ -187,12 +333,12 @@ async function extractSongsFromArtistPage(url) {
       } else {
         if (IDs.songId !== song.id)
           console.warn(
-            `Ignoring song ID ${IDs.songId}: Mismatch (${song.id}) for ${link}.`
+            `   Ignoring song ID ${IDs.songId}: Mismatch (${song.id}) for ${link} .`
           );
 
         if (IDs.transliterationId !== song.transliteration.id)
           console.warn(
-            `Ignoring transliteration ID ${IDs.transliterationId}: Mismatch (${song.transliteration.id}) for ${link}.`
+            `   Ignoring transliteration ID ${IDs.transliterationId}: Mismatch (${song.transliteration.id}) for ${link} .`
           );
       }
 
@@ -202,7 +348,7 @@ async function extractSongsFromArtistPage(url) {
       );
       if (englishTranslationsId.includes(IDs.translationId))
         console.warn(
-          `Ignoring english translation ID ${IDs.translationId}: Duplicate (${englishTranslationsId}) for ${link}.`
+          `   Ignoring english translation ID ${IDs.translationId}: Duplicate (${englishTranslationsId}) for ${link} .`
         );
       else englishTranslation.id = IDs.translationId;
     }
@@ -211,7 +357,7 @@ async function extractSongsFromArtistPage(url) {
   return songs;
 }
 
-async function extractSongsDataFromPage(url) {
+async function extractSongsDataFromArtistPage(url) {
   return await JSDOM.fromURL(url).then((dom) => {
     let document = dom.window.document;
     let songsData = extractSongsData(document);
@@ -222,11 +368,12 @@ async function extractSongsDataFromPage(url) {
 function extractSongsData(document) {
   let songsData = Array.from(document.querySelectorAll(".songName")).map(
     (td) => {
-      let lang = td.querySelector(".lang-artist").textContent;
+      let lang = td.querySelector(".lang-artist");
+      if (lang !== null) lang = lang.textContent;
       let songLink = td.querySelector("a");
       return {
         lang,
-        link: songLink.href,
+        link: songLink !== null ? songLink.href : null,
         englishTranslations: extractEnglishLinks(
           td.nextElementSibling
         ).map((link) => ({ link: link.href })),
@@ -240,6 +387,8 @@ function extractSongsData(document) {
 }
 
 function extractEnglishLinks(td) {
+  if (td === null) return [];
+
   // Get single link
   let link = Array.from(td.querySelectorAll("a")).filter(
     (a) => a.textContent === "English"
@@ -262,7 +411,7 @@ function extractEnglishLinks(td) {
   return linkList;
 }
 
-async function extractIDsFromPage(url) {
+async function extractIDsFromSongPage(url) {
   return await JSDOM.fromURL(url).then(async (dom) => {
     let document = dom.window.document;
 
@@ -297,18 +446,9 @@ async function extractIDsFromPage(url) {
   });
 }
 
-async function extractLyrics(document) {
-  let arabic = document.querySelector("#song-body");
-  let english = document.querySelector(".translate-node-text");
-  let transliteration = document.querySelector("#song-transliteration");
-
-  let lyrics = [];
-  Array.from(arabic.querySelectorAll(".par")).forEach((par) =>
-    Array.from(par.children).forEach((div) =>
-      lyrics.push({ id: div.className, ar: div.textContent })
-    )
-  );
-  return lyrics;
-}
-
 let sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+function getURLPage(url) {
+  let urlPathParts = new URL(url).pathname.split("/");
+  return urlPathParts[urlPathParts.length - 1];
+}

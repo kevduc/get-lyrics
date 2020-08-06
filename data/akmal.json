@@ -1,0 +1,639 @@
+{
+  "artist": "akmal",
+  "lyricsDownloaded": true,
+  "songs": [
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Akmal-akher-7aga-fakerha-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/akher-7aga-fakerha-last-thing-I-remeber.html",
+          "id": "123329",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "the last thing I remember this day is your eyes"
+            },
+            {
+              "id": "0-2",
+              "text": "\nand from this day,I sweared to live my life belonging to you"
+            },
+            {
+              "id": "0-3",
+              "text": "\nand till the end of my life, I will stay adoring everything in you"
+            },
+            {
+              "id": "0-4",
+              "text": "\nto the most tender and the most beautiful girl my eyes have ever seen"
+            },
+            {
+              "id": "0-5",
+              "text": "\nlet me live in your arms the remaining years of my life"
+            },
+            {
+              "id": "0-6",
+              "text": "\nas long as you are with me,this is enough for me,this satisfies me"
+            },
+            {
+              "id": "0-7",
+              "text": "\na promise and a vow from me to put you in my eyes all my life and to feel the tenderness with me and to live our days in love, and I'll carry you over my head and you'll be my beloved and my people, and I'll never be cruel one day and this is a promise not just words."
+            },
+            {
+              "id": "0-8",
+              "text": "\nand I swear by you, the most precious thing I have,that I adore you."
+            },
+            {
+              "id": "0-9",
+              "text": "\nand my dream is to live my coming days with you"
+            },
+            {
+              "id": "0-10",
+              "text": "\nand If I forget the whole world,it's hard to forget you."
+            },
+            {
+              "id": "0-11",
+              "text": "\nI miss you when you're in my arms,I love again and again"
+            },
+            {
+              "id": "0-12",
+              "text": "\nand my dream is to find you always with me and for you to be mine"
+            },
+            {
+              "id": "0-13",
+              "text": "\nand even if you're with me and infront of my eyes, I say that I miss you"
+            },
+            {
+              "id": "0-14",
+              "text": "\na promise and a vow from me to put you in my eyes all my life and to feel the"
+            },
+            {
+              "id": "0-15",
+              "text": "\ntenderness with me and to live our days in love, and I'll carry you over my"
+            },
+            {
+              "id": "0-16",
+              "text": "\nhead and you'll be my beloved and my people, and I'll never be cruel one day"
+            },
+            { "id": "0-17", "text": "\nand this is a promise not just words." }
+          ],
+          "title": "the last thing I remeber"
+        }
+      ],
+      "id": "123328",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "انا اخر حاجة فاكرها يوميها" },
+        { "id": "0-2", "text": "\nهي عينيكي" },
+        { "id": "0-3", "text": "\nمن يومها وحالف اعيش ايامي" },
+        { "id": "0-4", "text": "\nملك ايديكي" },
+        { "id": "0-5", "text": "\nولاخر عمري انا هفضل عاشق" },
+        { "id": "0-6", "text": "\nكل ما فيكي" },
+        { "id": "0-7", "text": "\nيا ارق واجمل واحده" },
+        { "id": "0-8", "text": "\nشافتها ليلة انا عينك" },
+        { "id": "0-9", "text": "\nخليني في حضنك اعيش" },
+        { "id": "0-10", "text": "\nواتهنى باقي سنيني" },
+        { "id": "0-11", "text": "\nطول مانتي معايا يا حبيبتي" },
+        { "id": "0-12", "text": "\nكفاية دا يرضيني" },
+        { "id": "1-1", "text": "وعد وعهد عليا طول عمري" },
+        { "id": "1-2", "text": "\nهشيلك في عينيا" },
+        { "id": "1-3", "text": "\nوتدوقي معايا الحنية" },
+        { "id": "1-4", "text": "\nونعيش الايام في غرام" },
+        { "id": "1-5", "text": "\nواشيلك فوق راسي" },
+        { "id": "1-6", "text": "\nوهتبقي حبيبتي انتي وناسي" },
+        { "id": "1-7", "text": "\nولا عمري في ليلة هكون قاسي" },
+        { "id": "1-8", "text": "\nوده وعد" },
+        { "id": "1-9", "text": "\nومش بس كلام" },
+        { "id": "2-1", "text": "وحياتك عندي" },
+        { "id": "2-2", "text": "\nيا اغلى ما عندي" },
+        { "id": "2-3", "text": "\nانا بهواكي" },
+        { "id": "2-4", "text": "\nومنايا اعيش ايامي الجاية" },
+        { "id": "2-5", "text": "\nوانا وياكي" },
+        { "id": "2-6", "text": "\nدا لو انسى الدنيا بحالها" },
+        { "id": "2-7", "text": "\nحقيقي صعب انساكي" },
+        { "id": "3-1", "text": "بشتاق لك وانتي في حضني" },
+        { "id": "3-2", "text": "\nبحبك تاني وتاني" },
+        { "id": "3-3", "text": "\nومنايا الاقيكي معايا تملي" },
+        { "id": "3-4", "text": "\nوتبقي عشاني" },
+        { "id": "3-5", "text": "\nلو حتي معايا وقدام عيني" },
+        { "id": "3-6", "text": "\nبقول وحشاني" }
+      ],
+      "title": "اخر حاجة فاكرها"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Akmal-Baad-el-omar-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/Baad-el-omar-After-life.html",
+          "id": "127334",
+          "lyrics": [
+            { "id": "0-1", "text": "After the life will pass with you" },
+            { "id": "0-2", "text": "\nOne fine day and one bitter day" },
+            { "id": "0-3", "text": "\nAfter my life was lost in your love" },
+            { "id": "0-4", "text": "\nDon't leave me and say it's up to me" },
+            { "id": "0-5", "text": "\nBefore you leave give me my days" },
+            {
+              "id": "0-6",
+              "text": "\nGive me my nights and give me my dreams"
+            },
+            {
+              "id": "0-7",
+              "text": "\nGive me everything you've taken in your love"
+            },
+            { "id": "0-8", "text": "\nAfter that go away" },
+            {
+              "id": "1-1",
+              "text": "Compensate me for my years that I lived for you"
+            },
+            { "id": "1-2", "text": "\nFor my dreams that have gone" },
+            { "id": "1-3", "text": "\nFor nights I've lost" },
+            {
+              "id": "1-4",
+              "text": "\nIf you can return the time back to the day we met in"
+            },
+            {
+              "id": "1-5",
+              "text": "\nReturn it back to kill what ended before the start"
+            },
+            { "id": "2-1", "text": "Before you forget what you've forgotten" },
+            {
+              "id": "2-2",
+              "text": "\ncompare what have you taken by what have you given"
+            },
+            {
+              "id": "2-3",
+              "text": "\nYou've taken my life, my soul and my years"
+            },
+            {
+              "id": "2-4",
+              "text": "\nAnd what between us you've ended in a moment"
+            },
+            { "id": "2-5", "text": "\nYou didn't give me but bitterness" },
+            {
+              "id": "2-6",
+              "text": "\nYou took the heaven and you gave me the hell"
+            },
+            { "id": "2-7", "text": "\nBefore you leave give me all this" },
+            { "id": "2-8", "text": "\nThen go on on your way" },
+            {
+              "id": "3-1",
+              "text": "Compensate me for my years that I lived for you"
+            },
+            { "id": "3-2", "text": "\nFor my dreams that have gone" },
+            { "id": "3-3", "text": "\nFor nights I've lost" },
+            {
+              "id": "3-4",
+              "text": "\nIf you can return the time back to the day we met in"
+            },
+            {
+              "id": "3-5",
+              "text": "\nReturn it back to kill what ended before the start"
+            }
+          ],
+          "title": "After the life"
+        }
+      ],
+      "id": "127333",
+      "transliteration": {
+        "id": "custom-1999938",
+        "lyrics": [
+          { "id": "0-1", "text": "Ba3d el3omr ma3ak mayomor" },
+          { "id": "0-2", "text": "\nYoum 3al 7elo we youm 3al mor" },
+          { "id": "0-3", "text": "\nBa3d mada3 el3omr fe 7obak" },
+          { "id": "0-4", "text": "\nMatsebneesh we t2ol ana 7or" },
+          { "id": "0-5", "text": "\n2abl mateb3ad hat ayami" },
+          { "id": "0-6", "text": "\nHat layalia we hat a7lami" },
+          { "id": "0-7", "text": "\nHat kol elly fe 7obak 5adtoh" },
+          { "id": "0-8", "text": "\nBa3deha eb3ed men 2odami" },
+          { "id": "1-1", "text": "3awadny 3an seneeny elly 3ashank 3eshtaha" },
+          { "id": "1-2", "text": "\n3an a7lamy elly ra7o" },
+          { "id": "1-3", "text": "\n3an layalli 5esrtaha" },
+          {
+            "id": "1-4",
+            "text": "\nLw t2eder belzamn terga3 lyoum ma2ablna ba3d"
+          },
+          {
+            "id": "1-5",
+            "text": "\nErga3 3alshan yomout 2abl elbdaya elly entaha"
+          },
+          { "id": "2-1", "text": "2abl matnsa elly enta neseto" },
+          { "id": "2-2", "text": "\nShouf eh 5adto we eh edeto" },
+          { "id": "2-3", "text": "\n5adt 7ayaty we ro7y we 3omry" },
+          { "id": "2-4", "text": "\nWelly mabena fe la7za naheto" },
+          { "id": "2-5", "text": "\nMadetneesh 3'er bas mararak" },
+          { "id": "2-6", "text": "\n5adt elgana we sebtely narak" },
+          { "id": "2-7", "text": "\n2abl ma teb3ed hatly da kolo" },
+          { "id": "2-8", "text": "\nBa3deha kamel meshwarak" },
+          { "id": "3-1", "text": "3awadny 3an seneeny elly 3ashank 3eshtaha" },
+          { "id": "3-2", "text": "\n3an a7lamy elly ra7o" },
+          { "id": "3-3", "text": "\n3an layalli 5esrtaha" },
+          {
+            "id": "3-4",
+            "text": "\nLw t2eder belzamn terga3 lyoum ma2ablna ba3d"
+          },
+          {
+            "id": "3-5",
+            "text": "\nErga3 3alshan yomout 2abl elbdaya elly entaha"
+          }
+        ],
+        "title": "Baad el omar"
+      },
+      "lyrics": [
+        { "id": "0-1", "text": "بعد العمر معاك ما يمر" },
+        { "id": "0-2", "text": "\nيوم عالحلو و يوم عالمر" },
+        { "id": "0-3", "text": "\nبعد ما ضاع العمر في حبك" },
+        { "id": "0-4", "text": "\nما تسيبنيش و تقول انا حُر" },
+        { "id": "0-5", "text": "\nقبل ما تبعد هات ايامي" },
+        { "id": "0-6", "text": "\nهات لياليا" },
+        { "id": "0-7", "text": "\nو هات احلامي" },
+        { "id": "0-8", "text": "\nهات كل اللي في حبك خدته" },
+        { "id": "0-9", "text": "\nبعديها ابعد من قدامي" },
+        { "id": "1-1", "text": "عوضني عن سنيني" },
+        { "id": "1-2", "text": "\nاللي عشانك عشتها" },
+        { "id": "1-3", "text": "\nعن احلامي اللي راحوا" },
+        { "id": "1-4", "text": "\nعن ليالي خسرتها" },
+        { "id": "1-5", "text": "\nلو تقدر بالزمن" },
+        { "id": "1-6", "text": "\nترجع ليوم ما قابلنا بعض" },
+        { "id": "1-7", "text": "\nارجع علشان يموت" },
+        { "id": "1-8", "text": "\nقبل البداية اللي انتهى" },
+        { "id": "2-1", "text": "قبل ما تنسى اللي انت نسيته" },
+        { "id": "2-2", "text": "\nشوف ايه خدته و ايه اديته" },
+        { "id": "2-3", "text": "\nخدت حياتي و روحي و عمري" },
+        { "id": "2-4", "text": "\nو اللي ما بيننا في لحظة نهيته" },
+        { "id": "2-5", "text": "\nما اديتنيش غير بس مرارك" },
+        { "id": "2-6", "text": "\nخدت الجنة و سبتلي نارك" },
+        { "id": "2-7", "text": "\nقبل ما تبعد هاتلي دة كله" },
+        { "id": "2-8", "text": "\nبعديها كمل مشوارك" },
+        { "id": "3-1", "text": "عوضني عن سنيني" },
+        { "id": "3-2", "text": "\nاللي عشانك عشتها" },
+        { "id": "3-3", "text": "\nعن احلامي اللي راحوا" },
+        { "id": "3-4", "text": "\nعن ليالي خسرتها" },
+        { "id": "3-5", "text": "\nلو تقدر بالزمن" },
+        { "id": "3-6", "text": "\nترجع ليوم ما قابلنا بعض" },
+        { "id": "3-7", "text": "\nارجع علشان يموت" },
+        { "id": "3-8", "text": "\nقبل البداية اللي انتهى" }
+      ],
+      "title": "بعد العمر"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Akmal-lesa-ader-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/lesa-ader-you-still-can.html",
+          "id": "123333",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "after all what I did to you with my own hands, and the torture you lived in my love to you.( x2)"
+            },
+            {
+              "id": "0-2",
+              "text": "\nyou still can be kind and forgive me, you-yourself- came to reconcile with me,all that and you still aren't mean with me. (x2)"
+            },
+            {
+              "id": "0-3",
+              "text": "\nsee what you sacrificed for me and what you took in return."
+            },
+            {
+              "id": "0-4",
+              "text": "\nwhy would someone other than you stay with me?? (x2)"
+            },
+            {
+              "id": "0-5",
+              "text": "\nyou still can be kind and forgive me, you-yourself- came to reconcile with me,all"
+            },
+            {
+              "id": "0-6",
+              "text": "\nthat and you still aren't mean with me."
+            },
+            {
+              "id": "0-7",
+              "text": "\nfrom today I won't live unless I have you beside me."
+            },
+            {
+              "id": "0-8",
+              "text": "\nI won't sleep unless you live in my arms."
+            },
+            {
+              "id": "0-9",
+              "text": "\nI won't agree to live unless I live between your arms."
+            },
+            {
+              "id": "0-10",
+              "text": "\nyou still can be kind and forgive me, you-yourself- came to reconcile with me,all"
+            },
+            {
+              "id": "0-11",
+              "text": "\nthat and you still aren't mean with me. (x2)"
+            }
+          ],
+          "title": "you still can"
+        }
+      ],
+      "id": "123332",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "بعد كل اللي بايديا عملته فيك" },
+        { "id": "0-2", "text": "\nو العذاب اللي انت شفته في حبي ليك " },
+        { "id": "1-1", "text": "لسة قادر تبقى طيب و تسامحني" },
+        { "id": "1-2", "text": "\nجاي بنفسك يا حبيبي و بتصالحني" },
+        { "id": "1-3", "text": "\nكل دة و انا لسة مش هاين عليك " },
+        { "id": "2-1", "text": "شوف بإيه ضحيت عشاني و خدت ايه" },
+        { "id": "2-2", "text": "\nحد غيرك كان هيفضل جنبي ليه" },
+        { "id": "3-1", "text": "لسة قادر تبقى طيب و تسامحني" },
+        { "id": "3-2", "text": "\nجاي بنفسك يا حبيبي و بتصالحني" },
+        { "id": "3-3", "text": "\nكل دة و انا لسة مش هاين عليك " },
+        { "id": "4-1", "text": "من انهاردة انا مش هعيش" },
+        { "id": "4-2", "text": "\nغير و انت جنبي" },
+        { "id": "4-3", "text": "\nمش هنام غير و انت عايش" },
+        { "id": "4-4", "text": "\nجوا حضني" },
+        { "id": "4-5", "text": "\nمش هوافق عالحياة" },
+        { "id": "4-6", "text": "\nغير بين ايديك " },
+        { "id": "5-1", "text": "لسة قادر تبقى طيب و تسامحني" },
+        { "id": "5-2", "text": "\nجاي بنفسك يا حبيبي و بتصالحني" },
+        { "id": "5-3", "text": "\nكل دة و انا لسة مش هاين عليك" }
+      ],
+      "title": "لسة قادر"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Akmal-mesh-be3eed-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/mesh-be3eed-Its-possible.html",
+          "id": "123335",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "It's possible that life will bring us back together again."
+            },
+            {
+              "id": "0-2",
+              "text": "\nIt's possible that my life would smile to us again tomorrow."
+            },
+            { "id": "0-3", "text": "\nMy heart calls for you every moment." },
+            {
+              "id": "0-4",
+              "text": "\nIt's possible that I will find you between my arms, my dearest."
+            },
+            {
+              "id": "0-5",
+              "text": "\nyou come, and the tears of joy fill my eyes."
+            },
+            {
+              "id": "0-6",
+              "text": "\nthat day, I would tell you how much I missed you. ( x2)"
+            },
+            {
+              "id": "0-7",
+              "text": "\nmaybe it's my destiny to live my life for you. when you go away, I find you.."
+            },
+            {
+              "id": "0-8",
+              "text": "\nstay beside me, my all. my life is not enough for you."
+            },
+            {
+              "id": "0-9",
+              "text": "\nEveryday I pray day and night, that god would ease the waitnig on both of us,"
+            },
+            {
+              "id": "0-10",
+              "text": "\nand to forget your parting when my life becomes better with you."
+            },
+            {
+              "id": "0-11",
+              "text": "\nany happiness -when you're away- is impossible."
+            },
+            { "id": "0-12", "text": "\neveryday passes like long years." },
+            {
+              "id": "0-13",
+              "text": "\nno matter who I meet, I won't think of anyone but you."
+            },
+            {
+              "id": "0-14",
+              "text": "\nmaybe it's my destiny to live my life for you. when you go away, I find you.."
+            },
+            {
+              "id": "0-15",
+              "text": "\nstay beside me, my all. my life is not enough for you."
+            },
+            {
+              "id": "0-16",
+              "text": "\nIt's possible that I will find you between my arms, my dearest."
+            },
+            {
+              "id": "0-17",
+              "text": "\nyou come, and the tears of joy fill my eyes."
+            },
+            {
+              "id": "0-18",
+              "text": "\nthat day, I would tell you how much I missed you."
+            }
+          ],
+          "title": "It's possible"
+        }
+      ],
+      "id": "123334",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        {
+          "id": "0-1",
+          "text": "مش بعيد الدنيا تجمع بينا تاني .. مش بعيد يضحكلنا بكرا زماني .. يللي قلبي كل لحظه بيناديك"
+        },
+        {
+          "id": "0-2",
+          "text": "\nمش بعيد القاك يا غالي بين ايديا .. تيجي ودموع الفرح تملى عينيا .. يومها اقلك ادي ايه اشتقت ليك"
+        },
+        {
+          "id": "0-3",
+          "text": "\nمش بعيد الدنيا تجمع بينا تاني .. مش بعيد يضحكلنا بكرا زماني .. يللي قلبي كل لحظه بيناديك"
+        },
+        {
+          "id": "0-4",
+          "text": "\nمش بعيد القاك يا غالي بين ايديا .. تيجي ودموع الفرح تملى عينيا .. يومها اقلك ادي ايه اشتقت ليك"
+        },
+        {
+          "id": "0-5",
+          "text": "\nيمكن قدري اعيش لك عمري وبعد ما تبعد تاني الاقيك .. تفضل جنبي يا كل حبايبي يللي حياتي شويه عليك"
+        },
+        {
+          "id": "0-6",
+          "text": "\nكل يوم يا حبيبي بدعي للنهار .. ربنا يهون علينا الانتظار .. وانسى بعدك لما يحلى عمري بيك"
+        },
+        {
+          "id": "0-7",
+          "text": "\nكل فرحه وانتا غايب مستحيله .. كل ليله تفوت عليا سنين طويله .. مهما غابت مش حفكر الا فيك"
+        },
+        {
+          "id": "0-8",
+          "text": "\nيمكن قدري اعيش لك عمري وبعد ما تبعد تاني الاقيك .. تفضل جنبي يا كل حبايبي يللي حياتي شويه عليك..."
+        }
+      ],
+      "title": "مش بعيد"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Akmal-men-einy-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/men-einy-my-eyes.html",
+          "id": "123331",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "from my eyes,order me and you'll find me beside you and belongning to you as you are my dream."
+            },
+            {
+              "id": "0-2",
+              "text": "\nwith me or not, your love is inside me,always on my mind."
+            },
+            {
+              "id": "0-3",
+              "text": "\nI'm yours from the day I met your eyes, and this day I touched your hands and found your love in your eyes, as I live for you and I have no one after you and my own life is not much for you and I'll live to please you."
+            },
+            {
+              "id": "0-4",
+              "text": "\nyou're on my mind night and day,and I've been like this for years, dreaming of your love every night."
+            },
+            {
+              "id": "0-5",
+              "text": "\nname it what you want,I'm crazy with your love and I surrendered my life."
+            },
+            {
+              "id": "0-6",
+              "text": "\nI'm yours from the day I met your eyes, and this day I touched your hands and"
+            },
+            {
+              "id": "0-7",
+              "text": "\nfound your love in your eyes, as I live for you and I have no one after you and"
+            },
+            {
+              "id": "0-8",
+              "text": "\nmy own life is not much for you and I'll live to please you.(x4)"
+            }
+          ],
+          "title": "from my eyes"
+        }
+      ],
+      "id": "123330",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "من عيني" },
+        { "id": "0-2", "text": "\nتؤمرني تلاقيني" },
+        { "id": "0-3", "text": "\nجنبك و ملك ايديك" },
+        { "id": "0-4", "text": "\nدة انت حلم الليالي" },
+        { "id": "0-5", "text": "\nوياية و لا مش وياية" },
+        { "id": "0-6", "text": "\nجوايا حبك يا حبيبي" },
+        { "id": "0-7", "text": "\nدايما في بالي" },
+        { "id": "1-1", "text": "انا ليك من يوم ما قابلت عينيك" },
+        { "id": "1-2", "text": "\nويوميها لمست ايديك" },
+        { "id": "1-3", "text": "\nو لقيت حبك في عينيك" },
+        { "id": "1-4", "text": "\nمانا بيك عايش و مليش بعديك" },
+        { "id": "1-5", "text": "\nو لا تغلى حياتي عليك" },
+        { "id": "1-6", "text": "\nوهعيش علشان ارضيك " },
+        { "id": "2-1", "text": "على بالي ليل نهار" },
+        { "id": "2-2", "text": "\nو بقالي عالحال" },
+        { "id": "2-3", "text": "\nدة ييجي سنين" },
+        { "id": "2-4", "text": "\nبحلم بهواك ليلاتي" },
+        { "id": "2-5", "text": "\nسميها زي ما تسميها" },
+        { "id": "2-6", "text": "\nمجنون بحبك" },
+        { "id": "2-7", "text": "\nو مسلم لعنيك حياتي" }
+      ],
+      "title": "من عينى"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Akmal-Wahda-Ehlawwet-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/Wahda-Ehlawwet-Wahda-Ehlawwet.html",
+          "id": "127164",
+          "lyrics": [
+            { "id": "0-1", "text": "Someone gets pretty in my eyes" },
+            { "id": "0-2", "text": "\nI lie if I've seen someone" },
+            { "id": "0-3", "text": "\nlike her in all the girls of the world" },
+            { "id": "0-4", "text": "\nHer good-heartedness and her eyes" },
+            { "id": "0-5", "text": "\nHer smile, everything in her" },
+            {
+              "id": "0-6",
+              "text": "\nShe knew how to fill the emptiness of my life"
+            },
+            { "id": "1-1", "text": "She's more than what I've fancied" },
+            {
+              "id": "1-2",
+              "text": "\nShe passed by her beauty my imagination"
+            },
+            { "id": "1-3", "text": "\nHowever I talk about her" },
+            { "id": "1-4", "text": "\nWhat can I describe" },
+            { "id": "1-5", "text": "\nHer softness while she's in my arms" },
+            { "id": "1-6", "text": "\nShe knew how to take me from my soul" },
+            {
+              "id": "1-7",
+              "text": "\nIt is the 1st peaceful sensation I become satisfied with"
+            },
+            { "id": "2-1", "text": "Am I dreaming or it's the reality" },
+            { "id": "2-2", "text": "\nI wish I wouldn't close my eyes" },
+            { "id": "2-3", "text": "\nI've never imagined all that" },
+            { "id": "2-4", "text": "\nI feel that my life is" },
+            { "id": "2-5", "text": "\nMore pleasant with her" },
+            {
+              "id": "2-6",
+              "text": "\nThere is no one in this world have my passion"
+            }
+          ],
+          "title": "Wahda Ehlawwet"
+        }
+      ],
+      "id": "127163",
+      "transliteration": {
+        "id": "custom-2000043",
+        "lyrics": [
+          { "id": "0-1", "text": "Wa7da e7lawet fe 3eeny" },
+          { "id": "0-2", "text": "\nAkdeb lw shafet 3eeny" },
+          { "id": "0-3", "text": "\n3'erha mn kol banat eldonia" },
+          { "id": "0-4", "text": "\n6eebet 2albaha we 3neeha" },
+          { "id": "0-5", "text": "\nDe7ketha kol ma feha" },
+          { "id": "0-6", "text": "\n3erfet temla eldonioa de 3alaya" },
+          { "id": "1-1", "text": "Aktar awi melli fballi" },
+          { "id": "1-2", "text": "\n3adet begamalha 5ayali" },
+          { "id": "1-3", "text": "\nMahma etkalmet 3aleha" },
+          { "id": "1-4", "text": "\nHawsef fe eh" },
+          { "id": "1-5", "text": "\nRe2tha we hya f7odni" },
+          { "id": "1-6", "text": "\n3erfet mn ro7i ta5odni" },
+          { "id": "1-7", "text": "\nAwel e7sas 6amni werta7t beeh" },
+          { "id": "2-1", "text": "Ba7lam wala de 7a2e2a" },
+          { "id": "2-2", "text": "\nNefsi ma3'amdsh de2e2a" },
+          { "id": "2-3", "text": "\n3omry makan yom 3la bali da kolo" },
+          { "id": "2-4", "text": "\n7ases beldonia m3aha" },
+          { "id": "2-5", "text": "\nAgmal 6ol mana wayaha" },
+          { "id": "2-6", "text": "\nSho2i ma7desh feldonia weselo" }
+        ],
+        "title": "Wahda Ehlawwet"
+      },
+      "lyrics": [
+        { "id": "0-1", "text": "واحدة احلوت في عيني" },
+        { "id": "0-2", "text": "\nاكدب لو شافت عيني" },
+        { "id": "0-3", "text": "\nغيرها من كل بنات الدنيا" },
+        { "id": "0-4", "text": "\nطيبة قلبها و عينيها" },
+        { "id": "0-5", "text": "\nضحكتها كل ما فيها" },
+        { "id": "0-6", "text": "\nعرفت تملى الدنيا دي عليا" },
+        { "id": "1-1", "text": "اكتر قوي من اللي في بالي" },
+        { "id": "1-2", "text": "\nعدت بجمالها خيالي" },
+        { "id": "1-3", "text": "\nمهما اتكلمت عليها" },
+        { "id": "1-4", "text": "\nهوصف في ايه" },
+        { "id": "1-5", "text": "\nرقتها و هي في حضني" },
+        { "id": "1-6", "text": "\nقدرت من روحي تاخدني" },
+        { "id": "1-7", "text": "\nاول احساس طمني" },
+        { "id": "1-8", "text": "\nو ارتحت بيه" },
+        { "id": "2-1", "text": "بحلم و لا دي حقيقة" },
+        { "id": "2-2", "text": "\nنفسي مغمضش دقيقة" },
+        { "id": "2-3", "text": "\nعمري ما كان يوم على بالي دة كله" },
+        { "id": "2-4", "text": "\nحاسس بالدنيا معاها" },
+        { "id": "2-5", "text": "\nاجمل طول مانا وياها" },
+        { "id": "2-6", "text": "\nشوقي محدش في الدنيا وصله" }
+      ],
+      "title": "واحدة احلوت"
+    }
+  ]
+}

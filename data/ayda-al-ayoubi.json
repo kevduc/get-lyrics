@@ -1,0 +1,513 @@
+{
+  "artist": "ayda-al-ayoubi",
+  "lyricsDownloaded": true,
+  "songs": [
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Ayda-Al-Ayoubi-En-Kont-Ghali-%D8%A5%D9%86-%D9%83%D9%86%D8%AA-%D8%BA%D8%A7%D9%84%D9%89-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/en-kont-ghali-%D8%A5%D9%86-%D9%83%D9%86%D8%AA-%D8%BA%D8%A7%D9%84%D9%89-if-you-were-precious.html",
+          "id": "212496",
+          "lyrics": [
+            { "id": "0-1", "text": "If you were my precious" },
+            { "id": "0-2", "text": "\nAnd your love is filling my eyes" },
+            { "id": "0-3", "text": "\nDon’t come one day to meet me" },
+            {
+              "id": "0-4",
+              "text": "\nYou forget the salutation (to say hi),,,forget the greeting"
+            },
+            { "id": "1-1", "text": "Life in my eye" },
+            { "id": "1-2", "text": "\nDon’t look nice with you away" },
+            { "id": "1-3", "text": "\nAnd the sweetness of life" },
+            {
+              "id": "1-4",
+              "text": "\nIs a nice word from you that comforts me"
+            },
+            {
+              "id": "2-1",
+              "text": "If there was, for the lover, another love"
+            },
+            { "id": "2-2", "text": "\nAnother love that made his heart busy" },
+            { "id": "2-3", "text": "\nHe forgot his first words" },
+            {
+              "id": "2-4",
+              "text": "\nIt would’ve been easier for me if he said it"
+            },
+            { "id": "3-1", "text": "Life in my eye" },
+            { "id": "3-2", "text": "\nDon’t look nice with you away" },
+            { "id": "3-3", "text": "\nAnd the sweetness of life" },
+            {
+              "id": "3-4",
+              "text": "\nIs a nice word from you that comforts me"
+            },
+            { "id": "4-1", "text": "If my lover was worried about me" },
+            {
+              "id": "4-2",
+              "text": "\nHe gave up on his love in a precious hour"
+            },
+            { "id": "4-3", "text": "\nAnd he doesn’t know that in sacrifice" },
+            {
+              "id": "4-4",
+              "text": "\nHe becomes more precious, more precious in my eyes"
+            },
+            { "id": "5-1", "text": "Life in my eye" },
+            { "id": "5-2", "text": "\nDon’t look nice with you away" },
+            { "id": "5-3", "text": "\nAnd the sweetness of life" },
+            {
+              "id": "5-4",
+              "text": "\nIs a nice word from you that comforts me"
+            },
+            { "id": "6-1", "text": "If you were my precious" },
+            { "id": "6-2", "text": "\nAnd your love is filling my eyes" },
+            { "id": "6-3", "text": "\nDon’t come one day to meet me" },
+            {
+              "id": "6-4",
+              "text": "\nYou forget the salutation (to say hi),,,forget the greeting"
+            }
+          ],
+          "title": "If you were precious"
+        }
+      ],
+      "id": "208744",
+      "transliteration": {
+        "id": "custom-413554",
+        "lyrics": [
+          { "id": "0-1", "text": "en kont ghali alyea w hobak maly enyea" },
+          {
+            "id": "0-2",
+            "text": "\nlateegy f youm tekablny tensa el salam tensa el tahyea"
+          },
+          {
+            "id": "1-1",
+            "text": "el donyea f aenya ma tehla youm w enta baeed"
+          },
+          { "id": "1-2", "text": "\nw eldonya halawetha kelma helwa tetamny" },
+          { "id": "1-3", "text": "\nx2" },
+          { "id": "2-1", "text": "en kan el habeeb habeeb tany" },
+          { "id": "2-2", "text": "\nshaghal albo habeeb gheery" },
+          { "id": "2-3", "text": "\nnesy kalamo el awlany" },
+          { "id": "2-4", "text": "\nkan ahwan aleeh law kan ally" },
+          { "id": "2-5", "text": "\nx2" },
+          {
+            "id": "3-1",
+            "text": "el donyea f aenya ma tehla youm w enta baeed"
+          },
+          { "id": "3-2", "text": "\nw eldonya halawetha kelma helwa tetamny" },
+          { "id": "3-3", "text": "\nx2" },
+          { "id": "4-1", "text": "en kan el habeeb khayef aleya" },
+          { "id": "4-2", "text": "\nana hakadr hobo f sawany" },
+          { "id": "4-3", "text": "\nwala yeaaraf enno fe el tadhyea" },
+          { "id": "4-4", "text": "\nele habeeby yeghly f aeneya" },
+          { "id": "5-1", "text": "en kont ghali alyea w hobak maly enyea" },
+          {
+            "id": "5-2",
+            "text": "\nlateegy f youm tekablny tensa el salam tensa el tahyea"
+          },
+          {
+            "id": "5-3",
+            "text": "\nel donyea f aenya ma tehla youm w enta baeed"
+          },
+          { "id": "5-4", "text": "\nw eldonya halawetha kelma helwa tetamny" },
+          { "id": "5-5", "text": "\nx2" }
+        ],
+        "title": "indonesia"
+      },
+      "lyrics": [
+        { "id": "0-1", "text": "إن كنت غالى عليا" },
+        { "id": "0-2", "text": "\nو حبك مالى عينيا" },
+        { "id": "0-3", "text": "\nلا تيجى فى يوم تقابلنى" },
+        { "id": "0-4", "text": "\nتنسى السلام . تنسى التحية" },
+        { "id": "1-1", "text": "الدنيا فى عينيا" },
+        { "id": "1-2", "text": "\nلا تحلى يوم و إنت بعيد" },
+        { "id": "1-3", "text": "\nو الدنيا حلاوتها" },
+        { "id": "1-4", "text": "\nكلمة حلوة تطمنى" },
+        { "id": "2-1", "text": "إن كان للحبيب حبيب تانى" },
+        { "id": "2-2", "text": "\nشغل قلبه حبيب غيرى" },
+        { "id": "2-3", "text": "\nنسى كلامه الأولانى" },
+        { "id": "2-4", "text": "\nكان أهون عليا لو كان قالى" },
+        { "id": "3-1", "text": "الدنيا فى عينيا" },
+        { "id": "3-2", "text": "\nلا تحلى يوم و إنت بعيد" },
+        { "id": "3-3", "text": "\nو الدنيا حلاوتها" },
+        { "id": "3-4", "text": "\nكلمة حلوة تطمنى" },
+        { "id": "4-1", "text": "إن كان الحبيب خايف عليا" },
+        { "id": "4-2", "text": "\nضحى بحبه فى ساعة غالية" },
+        { "id": "4-3", "text": "\nولا يعرف إنه بالتضحية" },
+        { "id": "4-4", "text": "\nيغلىَ حبيبى, يغلىَ فى عينيا" },
+        { "id": "5-1", "text": "الدنيا فى عينيا" },
+        { "id": "5-2", "text": "\nلا تحلى يوم و إنت بعيد" },
+        { "id": "5-3", "text": "\nو الدنيا حلاوتها" },
+        { "id": "5-4", "text": "\nكلمة حلوة تطمنى" },
+        { "id": "6-1", "text": "إن كنت غالى عليا" },
+        { "id": "6-2", "text": "\nو حبك مالى عينيا" },
+        { "id": "6-3", "text": "\nلا تيجى فى يوم تقابلنى" },
+        { "id": "6-4", "text": "\nتنسى السلام . تنسى التحية" }
+      ],
+      "title": "إن كنت غالى"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/cairokee-%D8%A3%D8%AA%D8%AC%D9%86%D9%86-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/%D8%A3%D8%AA%D8%AC%D9%86%D9%86-go-crazy.html",
+          "id": "622365",
+          "lyrics": [
+            { "id": "0-1", "text": "Laugh and the laugh will become two" },
+            { "id": "1-1", "text": "And two multiple two multiple two.." },
+            { "id": "1-2", "text": "\nMake people laugh" },
+            { "id": "2-1", "text": "We all in one ship.. carrying on" },
+            {
+              "id": "3-1",
+              "text": "And the beautiful picture gets captured in two seconds"
+            },
+            {
+              "id": "4-1",
+              "text": "Don't close your eyes and stand far away,, alone"
+            },
+            {
+              "id": "5-1",
+              "text": "A lot of things around you calling out for you"
+            },
+            { "id": "6-1", "text": "Draw and paint people's faces" },
+            {
+              "id": "7-1",
+              "text": "Put on some music, imagine, sing with feelings"
+            },
+            {
+              "id": "8-1",
+              "text": "Let your hair down even if it's just for one day"
+            },
+            { "id": "9-1", "text": "Even if everyone thinks you're crazy" },
+            { "id": "10-1", "text": "Live for the people" },
+            {
+              "id": "11-1",
+              "text": "Laugh and the laugh will make up for lots of things"
+            },
+            {
+              "id": "12-1",
+              "text": "And a lot of crazy good people helped others for the good"
+            },
+            {
+              "id": "13-1",
+              "text": "If tomorrow we'd help again maybe you'd wake up to find the whole world is as happy as it is during holidays"
+            },
+            {
+              "id": "14-1",
+              "text": "Live life with the spirit of your inner child"
+            },
+            {
+              "id": "15-1",
+              "text": "No matter how much they say that you laugh all the time"
+            },
+            {
+              "id": "16-1",
+              "text": "Open your window and enlighten your life"
+            },
+            {
+              "id": "17-1",
+              "text": "Get out of your house and be happy and make others happy and forget what has passed"
+            },
+            { "id": "18-1", "text": "Dust off every sadness of your clothes" },
+            {
+              "id": "18-2",
+              "text": "\nDraw a pretty smile on your face to start your day"
+            },
+            {
+              "id": "18-3",
+              "text": "\nBe crazy and do good things for others who could blame you ?"
+            },
+            {
+              "id": "18-4",
+              "text": "\nLaugh and wipe the rest of your troubles away"
+            },
+            {
+              "id": "18-5",
+              "text": "\nMake being happy your habbit even if u get carried away"
+            },
+            {
+              "id": "18-6",
+              "text": "\nDo good things without asking what's the use ?"
+            },
+            {
+              "id": "18-7",
+              "text": "\nI dream of happiness, I dream of a smile, I dream of the laugh to become a mark on our faces"
+            },
+            { "id": "18-8", "text": "\nYou're free to call me crazy it's ok" },
+            {
+              "id": "18-9",
+              "text": "\nI'm happy and it's possible to envy me"
+            },
+            {
+              "id": "19-1",
+              "text": "Let your hair down even if it's just for one day"
+            },
+            { "id": "20-1", "text": "Even if everyone thinks you're crazy" },
+            {
+              "id": "21-1",
+              "text": "Let your hair down even if it's just for one day"
+            },
+            { "id": "22-1", "text": "Even if everyone thinks you're crazy" },
+            { "id": "23-1", "text": "Live for the people...  :)" }
+          ],
+          "title": "Go Crazy"
+        }
+      ],
+      "id": "606330",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "اضحك والضحكه هتبقي ضحكتين" },
+        {
+          "id": "0-2",
+          "text": "\nواتنين في اتنين في اتنين ضحك كل اللي عايشين"
+        },
+        { "id": "0-3", "text": "\nكلنا في مركب واحده .. مكملين" },
+        { "id": "0-4", "text": "\nوالصوره الحلوه بتتاخد في ثانيتين" },
+        { "id": "1-1", "text": "اوعي تغمش عينيك توقف بعيد وحيد" },
+        { "id": "1-2", "text": "\nحاجات كتير حواليك بتناديك" },
+        { "id": "1-3", "text": "\nارسم ولون وشوش الناس" },
+        { "id": "1-4", "text": "\nشغل مزيكا تخيل غني بإحساس" },
+        { "id": "2-1", "text": "سيبك نفسك .. لو حتي يوم" },
+        { "id": "2-2", "text": "\nلو كل الناس هيقولوا عليك مجنون" },
+        { "id": "2-3", "text": "\nسيبك نفسك .. لو حتي يوم" },
+        { "id": "2-4", "text": "\nلو كل الناس هيقولوا عليك مجنون" },
+        { "id": "2-5", "text": "\nعيش للناس " },
+        { "id": "3-1", "text": "اضحك ما الضحكه ياما تشيل كتييير" },
+        {
+          "id": "3-2",
+          "text": "\nوكتيير مجانين في الخير .. ساعدوا كل العايشين"
+        },
+        { "id": "3-3", "text": "\nو بكره تساعد تاني مش بعيد" },
+        { "id": "3-4", "text": "\nبعده هتصحي تلاقي في كل الدنيا عيد" },
+        { "id": "4-1", "text": "ماتعيش الدنيا بروح الطفل اللي جواك" },
+        { "id": "4-2", "text": "\nلو مهما قالو الضحكه مش مفرقاك" },
+        { "id": "4-3", "text": "\nافتح شباكك ونور حياتك" },
+        { "id": "4-4", "text": "\nانزل افرح فرح و انسي اللي فات" },
+        { "id": "5-1", "text": "سيبك نفسك .. لو حتي يوم" },
+        { "id": "5-2", "text": "\nلو كل الناس هيقولوا عليك مجنون" },
+        { "id": "5-3", "text": "\nسيبك نفسك .. لو حتي يوم" },
+        { "id": "5-4", "text": "\nلو كل الناس هيقولوا عليك مجنون" },
+        { "id": "5-5", "text": "\nعيش للناس " },
+        { "id": "6-1", "text": "نفض اى زعل او هم عن هدومك" },
+        { "id": "6-2", "text": "\nارسم ابتسامه حلوه تبدأ بيها يومك" },
+        { "id": "6-3", "text": "\nاتجنن اعمل اى خير لغيرك مين هيلومك" },
+        { "id": "6-4", "text": "\nاضحك وامسح اللى باقى لسة من همومك" },
+        { "id": "6-5", "text": "\nخلى السعاده عاده حتى ولو بزيادة" },
+        { "id": "6-6", "text": "\nاعمل خير من غير ماتسألنى اية الاستفاده" },
+        {
+          "id": "6-7",
+          "text": "\nبحلم بالفرح بحلم بإبتسامه بحلم ان الضحكة تبقى فى وشنا علامه"
+        },
+        { "id": "6-8", "text": "\nمجنون عادى جداً ممكن بيها توصفوها" },
+        { "id": "6-9", "text": "\nمبسوط ع السعاده جايز جدا تسحدوني." },
+        { "id": "7-1", "text": "سيبك نفسك .. لو حتي يوم" },
+        { "id": "7-2", "text": "\nلو كل الناس هيقولوا عليك مجنون" },
+        { "id": "7-3", "text": "\nسيبك نفسك .. لو حتي يوم" },
+        { "id": "7-4", "text": "\nلو كل الناس هيقولوا عليك مجنون" },
+        { "id": "7-5", "text": "\nعيش للناس" }
+      ],
+      "title": "أتجنن"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/cairokee-%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86-o-you-square-tahrir-square.html",
+          "id": "621278",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "O you the square, where were you long ago?"
+            },
+            {
+              "id": "0-2",
+              "text": "\nwith you we kept singing and with you we struggled"
+            },
+            { "id": "0-3", "text": "\nwe fought our fears and we prayed" },
+            { "id": "0-4", "text": "\nStanding as one man day and night" },
+            { "id": "0-5", "text": "\nwith you there's nothing impossible" },
+            { "id": "0-6", "text": "\nthe sound of freedom gathers us" },
+            { "id": "0-7", "text": "\nfinally our lives have a meaning" },
+            {
+              "id": "0-8",
+              "text": "\nthere's no coming back, our voice is now heard"
+            },
+            { "id": "0-9", "text": "\nthe dream is no longer prohibited." },
+            {
+              "id": "1-1",
+              "text": "O you the square, where were you long ago?"
+            },
+            {
+              "id": "1-2",
+              "text": "\nyou broke the wall, you turned the light on"
+            },
+            {
+              "id": "1-3",
+              "text": "\nyou accommodated people that were deeply broken"
+            },
+            {
+              "id": "1-4",
+              "text": "\nwe were born again, the stubborn dream is born"
+            },
+            {
+              "id": "1-5",
+              "text": "\nwe are different but the intention is honest and clear"
+            },
+            {
+              "id": "1-6",
+              "text": "\nsometimes the picture was not that clear"
+            },
+            {
+              "id": "1-7",
+              "text": "\nwe will keep our country safe and so will our children"
+            },
+            {
+              "id": "1-8",
+              "text": "\nwe will restore the rights for the youths who died for it"
+            },
+            {
+              "id": "2-1",
+              "text": "O you the square, where were you long ago?"
+            },
+            {
+              "id": "2-2",
+              "text": "\nwith you we had feelings and a new start"
+            },
+            {
+              "id": "2-3",
+              "text": "\nafter we were far away and it was over for us"
+            },
+            {
+              "id": "2-4",
+              "text": "\nwe have to change ourselves with ourselves"
+            },
+            {
+              "id": "2-5",
+              "text": "\nyou gave us a lot and the rest is for us to continue doing"
+            },
+            {
+              "id": "2-6",
+              "text": "\nsometimes I am afraid that we become just a memory"
+            },
+            {
+              "id": "2-7",
+              "text": "\nwe get away from you then the idea dies and fades away"
+            },
+            { "id": "2-8", "text": "\nand we go back to forget what happened" },
+            {
+              "id": "2-9",
+              "text": "\nand you become a story to tell in narrations"
+            },
+            {
+              "id": "3-1",
+              "text": "O you the square, where were you long ago?"
+            },
+            {
+              "id": "3-2",
+              "text": "\na square that is full of different people"
+            },
+            {
+              "id": "3-3",
+              "text": "\nthe one who has given it away and the one that is brave"
+            },
+            {
+              "id": "3-4",
+              "text": "\nthe one who loves and the one who goes along"
+            },
+            {
+              "id": "3-5",
+              "text": "\nthe one who shouts and the who is silent."
+            },
+            {
+              "id": "4-1",
+              "text": "We all gather together and we drink some tea"
+            },
+            {
+              "id": "4-2",
+              "text": "\nnow we know how to restore our right back"
+            },
+            { "id": "4-3", "text": "\nyou made the world hear about it" },
+            { "id": "4-4", "text": "\nyou made our neighbors stand as one " },
+            {
+              "id": "5-1",
+              "text": "O you the square, where were you long ago?"
+            },
+            { "id": "5-2", "text": "\nour idea is our strength" },
+            { "id": "5-3", "text": "\nour weapon is in our unity" },
+            { "id": "6-1", "text": "A square that tells the truth" },
+            { "id": "6-2", "text": "\nit always says no to the unjust" },
+            { "id": "6-3", "text": "\nA square that is like a wave" },
+            {
+              "id": "6-4",
+              "text": "\nsome people are aboard and some people are pulled along"
+            },
+            {
+              "id": "6-5",
+              "text": "\nand other people that stand away and say it's just a fuss"
+            },
+            { "id": "6-6", "text": "\nall actions are recorded." },
+            {
+              "id": "7-1",
+              "text": "O you the square,where were you long ago?"
+            },
+            { "id": "7-2", "text": "\nour idea is our strength" },
+            { "id": "7-3", "text": "\nour weapon is in our unity" },
+            { "id": "7-4", "text": "\nA square that tells the truth" },
+            { "id": "7-5", "text": "\nit always says no to the unjust" }
+          ],
+          "title": "O you the square \" Tahrir Square\""
+        }
+      ],
+      "id": "584921",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "يا يا الميدان كنت فين من زمان" },
+        { "id": "0-2", "text": "\nمعاك غنينا و معاك شقينا" },
+        { "id": "0-3", "text": "\nو حاربنا خوفنا و دعينا" },
+        { "id": "0-4", "text": "\nايد واحدة نهار و ليل" },
+        { "id": "0-5", "text": "\nمفيش معاك شئ مستحيل" },
+        { "id": "0-6", "text": "\nصوت الحرية بيجمعنا" },
+        { "id": "0-7", "text": "\nخلاص حياتنا بقي ليها معني" },
+        { "id": "0-8", "text": "\nمفيش رجوع صوتنا مسموع" },
+        { "id": "0-9", "text": "\nالحلم خلاص بقي مش ممنوع" },
+        { "id": "1-1", "text": "يا يا الميدان كنت فين من زمان" },
+        { "id": "1-2", "text": "\nهديت السور نورت النور" },
+        { "id": "1-3", "text": "\nلميت حوليك شعب مكسور" },
+        { "id": "1-4", "text": "\nاتولدنا من جديد و اتولد الحلم العنيد" },
+        { "id": "1-5", "text": "\nبنختلف و النية صافي" },
+        { "id": "1-6", "text": "\nاوقات الصورة مكنتش واضحة" },
+        { "id": "1-7", "text": "\nحنصون بلادنا و ولاد ولادنا" },
+        { "id": "1-8", "text": "\nحق اللي راحوا من شبابنا" },
+        { "id": "2-1", "text": "يا يا الميدان كنت فين من زمان" },
+        { "id": "2-2", "text": "\nمعاك حسينا و ابتدينا" },
+        { "id": "2-3", "text": "\nبعد ما بعدنا و انتهينا" },
+        { "id": "2-4", "text": "\nلازم بايدينا نغير نفسينا" },
+        { "id": "2-5", "text": "\nاديتنا كتير و الباقي علينا" },
+        { "id": "2-6", "text": "\nساعات بخاف نبقي ذكري" },
+        { "id": "2-7", "text": "\nنبعد عنك تموت الفكرة" },
+        { "id": "2-8", "text": "\nونرجع تاني ننسي اللي فات" },
+        { "id": "2-9", "text": "\nونحكي عنك في الحكايات" },
+        { "id": "3-1", "text": "يا يا الميدان كنت فين من زمان" },
+        { "id": "3-2", "text": "\nميدان مليان انواع" },
+        { "id": "3-3", "text": "\nاللي بايع و الشجاع" },
+        { "id": "3-4", "text": "\nفيه اللي حابب و اللي راكب" },
+        { "id": "3-5", "text": "\nواللي بيزعق و اللي ساكت" },
+        { "id": "4-1", "text": "نتجمع نشرب الشاي" },
+        { "id": "4-2", "text": "\nوالحق عرفنا نجيبه ازاي" },
+        { "id": "4-3", "text": "\nخليت العالم يسمعوا" },
+        { "id": "4-4", "text": "\nوالجيران يتجمعوا" },
+        { "id": "5-1", "text": "يا يا الميدان كنت فين من زمان" },
+        { "id": "5-2", "text": "\nفكرتنا هي قوتنا" },
+        { "id": "5-3", "text": "\nوسلاحنا في وحدتنا" },
+        { "id": "6-1", "text": "ميدان بيقول الحق" },
+        { "id": "6-2", "text": "\nبيقول للظالم دايما لا" },
+        { "id": "6-3", "text": "\nميدان زي الموجة" },
+        { "id": "6-4", "text": "\nناس راكبة و ناس مشدودة" },
+        { "id": "6-5", "text": "\nوناس برة بيقولوا دي هوجة" },
+        { "id": "6-6", "text": "\nوالاعمال مكتوبة" }
+      ],
+      "title": "يا الميدان"
+    }
+  ]
+}

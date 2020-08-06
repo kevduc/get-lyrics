@@ -1,0 +1,441 @@
+{
+  "artist": "abou-el-leef",
+  "lyricsDownloaded": true,
+  "songs": [
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Abou-El-Leef-Basahi-subh-%D8%A8%D8%A7%D8%B5%D8%AD%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%AD-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/basahi-subh-%D8%A8%D8%A7%D8%B5%D8%AD%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%AD-i-wake-morning.html",
+          "id": "878428",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "I wake up in the morning, i open the window shutters by my hand"
+            },
+            { "id": "0-2", "text": "\nthen i go running to earn my living" },
+            {
+              "id": "0-3",
+              "text": "\ni suffer a lot to cover my children expenses"
+            },
+            { "id": "0-4", "text": "\nand to make you live in luxury" },
+            {
+              "id": "0-5",
+              "text": "\nmention one thing in our life that we have not paid its price in installments"
+            },
+            {
+              "id": "0-6",
+              "text": "\ncheck how many credit cards have we issued"
+            },
+            {
+              "id": "0-7",
+              "text": "\nwhere is your wisdom? where is your patience? where is it?"
+            },
+            {
+              "id": "0-8",
+              "text": "\nisn't it the protocol that we agreed upon?"
+            },
+            {
+              "id": "1-1",
+              "text": "When will u be satisfied? slow down please"
+            },
+            { "id": "1-2", "text": "\nask yourself, for whom i do all this?" },
+            {
+              "id": "2-1",
+              "text": "calm down aha ... these are not silly pretexts"
+            },
+            {
+              "id": "2-2",
+              "text": "\ncalm down aha ... and stop your silly answers"
+            },
+            {
+              "id": "2-3",
+              "text": "\nI miss the old days ... you were a chick"
+            },
+            { "id": "2-4", "text": "\nand i was proud of my feathers" },
+            {
+              "id": "2-5",
+              "text": "\ni will stay at home but i will be honest with you"
+            },
+            {
+              "id": "2-6",
+              "text": "\nmy pocket money will arrive to my hand from your dad"
+            },
+            {
+              "id": "2-7",
+              "text": "\nmy cigarettes, my food, my drinks, my consume"
+            },
+            { "id": "2-8", "text": "\ni hope he would unlock my properties" },
+            {
+              "id": "2-9",
+              "text": "\nWhen will u be satisfied? slow down please"
+            },
+            { "id": "2-10", "text": "\nask yourself, for whom i do all this?" },
+            {
+              "id": "3-1",
+              "text": "calm down aha ... these are not silly pretexts"
+            },
+            {
+              "id": "3-2",
+              "text": "\ncalm down aha ... and stop your silly answers"
+            },
+            {
+              "id": "3-3",
+              "text": "\nI miss the old days ... you were a chick"
+            },
+            { "id": "3-4", "text": "\nand i was proud of my feathers" },
+            {
+              "id": "3-5",
+              "text": "\nI wake up in the morning, i open the window shutters by my hand"
+            },
+            { "id": "3-6", "text": "\nthen i go running to earn my living" },
+            {
+              "id": "3-7",
+              "text": "\ni suffer a lot to cover my children expenses"
+            },
+            { "id": "3-8", "text": "\nand to make you live in luxury" }
+          ],
+          "title": "I wake up in the morning"
+        }
+      ],
+      "id": "161177",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "أنا باصحى الصبح أفتح بإيديا شيشي" },
+        { "id": "0-2", "text": "\nواتوكل أجرى أنزل على أكل عيشى" },
+        { "id": "0-3", "text": "\nطافح الكوتة عشان أوفر زاد عيالى" },
+        { "id": "0-4", "text": "\nوعشان انتى فى مستوى نضيف تعيشى" },
+        { "id": "0-5", "text": "\nهاتى شئ فى حياتنا مش مقسطينه" },
+        { "id": "0-6", "text": "\nشوفى كام دفتر شيكات مطلعينه" },
+        { "id": "0-7", "text": "\nفين عقلك فين صبرك عليا فينه" },
+        { "id": "0-8", "text": "\nمش ده النظام اللى احنا مسستمينه" },
+        { "id": "1-1", "text": "إمتى أنول الرضا .. بالراحة مش كدة" },
+        { "id": "1-2", "text": "\nبالذمة طب عشان مين كل ده؟" },
+        { "id": "2-1", "text": "اهمدى يوه ... دى ماهيش حجج فارغة" },
+        { "id": "2-2", "text": "\nاهبطى يوه ...وبلاش ردود بايخة" },
+        { "id": "2-3", "text": "\nيرحم زمان .. كنتى زمان فرخة" },
+        { "id": "2-4", "text": "\nو كنت نافش ريشى" },
+        { "id": "2-5", "text": "\nحاقعد فى البيت ... بس أبقى صريح معاكى" },
+        { "id": "2-6", "text": "\nمصروفى يجيلى ف إيدى من باباكى" },
+        { "id": "2-7", "text": "\nبسجايرى بأكلى بشربى باستهلاكى" },
+        { "id": "2-8", "text": "\nو ياريت يرفعلى الحجز عن أملاكى" },
+        { "id": "2-9", "text": "\nإمتى أنول الرضا .. بالراحة مش كدة" },
+        { "id": "2-10", "text": "\nبالذمة طب عشان مين كل ده؟" },
+        { "id": "3-1", "text": "اهمدى يوه ... دى ماهيش حجج فارغة" },
+        { "id": "3-2", "text": "\nاهبطى يوه ...وبلاش ردود بايخة" },
+        { "id": "3-3", "text": "\nيرحم زمان .. كنتى زمان فرخة" },
+        { "id": "3-4", "text": "\nو كنت نافش ريشى" },
+        { "id": "3-5", "text": "\nأنا باصحى الصبح أفتح بإيديا شيشي" },
+        { "id": "3-6", "text": "\nواتوكل أجرى أنزل على أكل عيشى" },
+        { "id": "3-7", "text": "\nطافح الكوتة عشان أوفر زاد عيالى" },
+        { "id": "3-8", "text": "\nوعشان انتى فى مستوى نضيف تعيشى" }
+      ],
+      "title": "باصحى الصبح"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/abou-el-leef-gedo-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/gedo-grandpa.html",
+          "id": "644681",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "Grandpa, does anyone have a grandpa like my grandpa?"
+            },
+            {
+              "id": "0-2",
+              "text": "\nDoes anyone love their grandpa as much as I love mine?"
+            },
+            { "id": "0-3", "text": "\nMy love, come to grandpa." },
+            { "id": "0-4", "text": "\nKiss his hand and kiss his cheeks too!" },
+            {
+              "id": "0-5",
+              "text": "\nYour memories will stay with him forever."
+            },
+            {
+              "id": "0-6",
+              "text": "\nHug him and cherish every moment with him."
+            },
+            { "id": "0-7", "text": "\nGrandpa (x2)" },
+            {
+              "id": "0-8",
+              "text": "\nAsk about my life, everyday with him is heaven."
+            },
+            {
+              "id": "0-9",
+              "text": "\nListen to his advice he will be your angel."
+            },
+            {
+              "id": "0-10",
+              "text": "\nWho would dare to disrespect his dear grandpa?"
+            },
+            { "id": "0-11", "text": "\nMy love, come to grandpa." },
+            {
+              "id": "0-12",
+              "text": "\nKiss his hand and kiss his cheeks too!"
+            },
+            {
+              "id": "0-13",
+              "text": "\nYour memories will stay with him forever."
+            },
+            {
+              "id": "0-14",
+              "text": "\nHug him and cherish every moment with him"
+            }
+          ],
+          "title": "Grandpa :)"
+        }
+      ],
+      "id": "645124",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "جدو" },
+        { "id": "1-1", "text": "جدو .. جدو .. بحبك ياجدو" },
+        { "id": "1-2", "text": "\nتعالي ياجدو" },
+        { "id": "2-1", "text": "جدوو" },
+        { "id": "2-2", "text": "\nف حد عنده جد زي جدو" },
+        { "id": "2-3", "text": "\nاتحدي اي حد ف الدنيا احبه قده" },
+        { "id": "2-4", "text": "\nجدو .. جدوو" },
+        { "id": "2-5", "text": "\nياحبيبي تعالي لجدو زوره ف الويك اند ووده" },
+        { "id": "2-6", "text": "\nبوس ايده وبوسه في خده غلاوتك عنده ماتتقدرش" },
+        { "id": "2-7", "text": "\nمين غيرك اتهني بدلعه" },
+        { "id": "2-8", "text": "\nزنك وعياطك بلعه" },
+        { "id": "2-9", "text": "\nولد الولد اهم طلعو فعلا اعز" },
+        { "id": "2-10", "text": "\nفاماتقصرش" },
+        { "id": "2-11", "text": "\nجدو .. جدووو" },
+        { "id": "2-12", "text": "\nجدوووو" },
+        { "id": "3-1", "text": "اسأل على جدو كل يوم مكالمة" },
+        { "id": "3-2", "text": "\nاسمع لنصيحته دي نور ف اي ضلمه" },
+        { "id": "3-3", "text": "\nماما تعاقبني ولا بابا يزعل" },
+        { "id": "3-4", "text": "\nمين يستأجري يكسر لجدو كلمة" },
+        { "id": "4-1", "text": "ياحبيبي تعالي لجدو زوره ف الويك اند ووده" },
+        { "id": "4-2", "text": "\nبوس ايده وبوسه في خده غلاوتك عنده ماتتقدرش" },
+        { "id": "4-3", "text": "\nمين غيرك اتهني بدلعه" },
+        { "id": "4-4", "text": "\nزنك وعياطك بلعه" },
+        { "id": "4-5", "text": "\nولد الولد اهم طلعو فعلا اعز" },
+        { "id": "4-6", "text": "\nفاماتقصرش" },
+        { "id": "4-7", "text": "\nجدو .. جدووو" },
+        { "id": "4-8", "text": "\nجدوووو" },
+        { "id": "5-1", "text": "جدو معاك عشره جنية ؟؟" }
+      ],
+      "title": "جدو"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Abou-El-Leef-Doula-maganeen-%D8%AF%D9%88%D9%84%D8%A7-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/doula-maganeen-%D8%AF%D9%88%D9%84%D8%A7-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86-crazy-women.html",
+          "id": "455774",
+          "lyrics": [
+            { "id": "0-1", "text": "Dola Maganeen - Crazy women" },
+            {
+              "id": "0-2",
+              "text": "\nDisregard women my brother (Crazy women)"
+            },
+            {
+              "id": "0-3",
+              "text": "\nI swear to you they are all the same (Crazy women)"
+            },
+            {
+              "id": "0-4",
+              "text": "\nWhether she is rich or poor (Crazy women)"
+            },
+            { "id": "0-5", "text": "\nBe cautious with the female race" },
+            {
+              "id": "1-1",
+              "text": "Every woman has a certain degree [of crazy] (Crazy women)"
+            },
+            {
+              "id": "1-2",
+              "text": "\nI swear a fourth (1/4) of them are screwed up (Crazy women)"
+            },
+            {
+              "id": "1-3",
+              "text": "\nIn the morning they are honey/sweet and at night it's a war (Crazy women)"
+            },
+            { "id": "1-4", "text": "\nAsk forgiveness from God Almighty" },
+            { "id": "2-1", "text": "They, they, they are loony" },
+            {
+              "id": "2-2",
+              "text": "\nThose who understand them have a headache"
+            },
+            {
+              "id": "2-3",
+              "text": "\nWhat's there to understand you moron (Nobody can)"
+            },
+            { "id": "3-1", "text": "They, they, they are loony" },
+            {
+              "id": "3-2",
+              "text": "\nIt's a humbling experience for them [women] to sit with us [men]"
+            },
+            { "id": "3-3", "text": "\nSlice the watermelon and good luck" },
+            {
+              "id": "4-1",
+              "text": "When they decide to be sweet (They are so adorable)"
+            },
+            {
+              "id": "4-2",
+              "text": "\nBut man they have a mood swing on them... I'll be seeing you around"
+            },
+            {
+              "id": "4-3",
+              "text": "\nAnd what gives them the upper hand.. is their ability to ruin everything"
+            },
+            { "id": "4-4", "text": "\nMay God protect you from that weapon " },
+            {
+              "id": "5-1",
+              "text": "In a matter of seconds you'll find the world on fire  (Crazy women)"
+            },
+            {
+              "id": "5-2",
+              "text": "\nEither you divorce me or I will divorce you  (Crazy women)"
+            },
+            {
+              "id": "5-3",
+              "text": "\nMost of us are now bald (Due to the craziness)"
+            },
+            {
+              "id": "5-4",
+              "text": "\nWhat a pity for all the hair that we've lost"
+            },
+            { "id": "6-1", "text": "(x2)" },
+            { "id": "6-2", "text": "\nThey, they, they are loony" },
+            {
+              "id": "6-3",
+              "text": "\nThose who understand them have a headache"
+            },
+            {
+              "id": "6-4",
+              "text": "\nWhat's there to understand you moron (Nobody can)"
+            },
+            { "id": "7-1", "text": "They, they, they are loony" },
+            {
+              "id": "7-2",
+              "text": "\nIt's a humbling experience for them [women] to sit with us [men]"
+            },
+            { "id": "7-3", "text": "\nSlice the watermelon and good luck" }
+          ],
+          "title": "Crazy Women"
+        }
+      ],
+      "id": "161173",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "مستهون بالستات يا اخويا ... دولا مجانين" },
+        { "id": "0-2", "text": "\nدول كربونة و حياة أبويا ... دولا مجانين" },
+        { "id": "0-3", "text": "\nهانم ولا بمنديل بأوية ... دولا مجانين" },
+        { "id": "0-4", "text": "\nخد بالك من صنف الحريم" },
+        { "id": "1-1", "text": "يتفاوتوا إنما نسبة و تناسب ... دولا مجانين" },
+        { "id": "1-2", "text": "\nفيهم والله ربع ضارب ... دولا مجانين" },
+        { "id": "1-3", "text": "\nالصبح عسل بالليل تحارب. .. دولا مجانين" },
+        { "id": "1-4", "text": "\nاستغفر الله العظيم" },
+        { "id": "2-1", "text": "دول دول دولا خبلانة" },
+        { "id": "2-2", "text": "\nاللى فاهمهم راسه تعبانة" },
+        { "id": "2-3", "text": "\nتفهم إيه حموك فى كنكة ... كان غيرك أشطر" },
+        { "id": "3-1", "text": "دول دول دول خبلانة" },
+        { "id": "3-2", "text": "\nتواضع منهم قعدوا معانا" },
+        { "id": "3-3", "text": "\nشق البطيخة ,,, و ع البركة" },
+        { "id": "4-1", "text": "لما الحنية بتبقى طالبة ... بيبقوا قمامير" },
+        { "id": "4-2", "text": "\nإنما يا حبيبي عليهم قلبة ... اشوف وشك بخير" },
+        { "id": "4-3", "text": "\nو اللى مخلى كفتهم غالبة ... النكد الكتير" },
+        { "id": "4-4", "text": "\nو أجارك الله بقى على ده سلاح" },
+        { "id": "5-1", "text": "فى ثوانى تلاقى الدنيا ولعة ... دولا مجانين" },
+        {
+          "id": "5-2",
+          "text": "\nماهو ياتطلقنى يا إما خالعة .... دولا مجانين"
+        },
+        {
+          "id": "5-3",
+          "text": "\nمعظمنا خلاص بقى عنده صلعة ... بسبب المجانين"
+        },
+        { "id": "5-4", "text": "\nيا خسارة الشعر اللى راح" },
+        { "id": "5-5", "text": "\nدول دول دول خبلانة" },
+        { "id": "5-6", "text": "\nاللى فاهمهم راسه تعبانة" },
+        { "id": "5-7", "text": "\nتفهم إيه حموك فى كنكة ... كان غيرك أشطر" },
+        { "id": "6-1", "text": "دول دول دول خبلانة" },
+        { "id": "6-2", "text": "\nتواضع منهم قعدوا معانا" },
+        { "id": "6-3", "text": "\nشق البطيخة ,,, و ع البركة" },
+        { "id": "7-1", "text": "مستهون بالستات يا اخويا ... دولا مجانين" },
+        { "id": "7-2", "text": "\nدول كربونة و حياة أبويا ... دولا مجانين" },
+        { "id": "7-3", "text": "\nهانم ولا بمنديل بأوية ... دولا مجانين" },
+        { "id": "7-4", "text": "\nخد بالك من صنف الحريم" },
+        { "id": "8-1", "text": "دول دول دولا خبلانة" },
+        { "id": "8-2", "text": "\nاللى فاهمهم راسه تعبانة" },
+        { "id": "8-3", "text": "\nتفهم إيه حموك فى كنكة ... كان غيرك أشطر" },
+        { "id": "9-1", "text": "دول دول دول خبلانة" },
+        { "id": "9-2", "text": "\nتواضع منهم قعدوا معانا" },
+        { "id": "9-3", "text": "\nشق البطيخة ,,, و ع البركة" }
+      ],
+      "title": "دولا مجانين"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Abou-El-Leef-King-Kong-%D9%83%D9%86%D8%AC-%D9%83%D9%88%D9%86%D8%AC-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/king-kong-%D9%83%D9%86%D8%AC-%D9%83%D9%88%D9%86%D8%AC-king-kong.html",
+          "id": "162795",
+          "lyrics": [
+            { "id": "0-1", "text": "do you love me? i doubt it.." },
+            { "id": "0-2", "text": "\nwho are those on your facebook!!" },
+            {
+              "id": "0-3",
+              "text": "\nif you didnt delete em, i am done with you! "
+            },
+            { "id": "1-1", "text": "[CHORUS]" },
+            { "id": "1-2", "text": "\nand I .. I am not a lamer" },
+            { "id": "1-3", "text": "\ni'm king kong" },
+            { "id": "1-4", "text": "\ni'm a kind of a guy" },
+            {
+              "id": "1-5",
+              "text": "\nwhom with his hands tied, plays table tennis!"
+            },
+            {
+              "id": "2-1",
+              "text": "i'm not the son of a princess nor a lord!"
+            },
+            { "id": "2-2", "text": "\nc'mon give me the damn password!" },
+            { "id": "2-3", "text": "\ni'm a clown raised up in a circus" },
+            { "id": "2-4", "text": "\nI'm not an ASSHOLE! " },
+            { "id": "3-1", "text": "and I .. I am not a lamer" },
+            { "id": "3-2", "text": "\ni'm king kong" },
+            { "id": "3-3", "text": "\ni'm a kind of a guy" },
+            {
+              "id": "3-4",
+              "text": "\nwhom with his hands tied, plays table tennis!"
+            },
+            {
+              "id": "4-1",
+              "text": "N.B: the artist is not serious with his lyrics, its just a funny song :D"
+            }
+          ],
+          "title": "King Kong"
+        }
+      ],
+      "id": "154614",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "بتحبنى لا ... أشك" },
+        { "id": "0-2", "text": "\nمين دول اللى على الفيسبوك" },
+        { "id": "0-3", "text": "\nلو ماشلتيش العيال دى ... عليك حاسك" },
+        { "id": "1-1", "text": "وأنا . أنا مش خرنج" },
+        { "id": "1-2", "text": "\nلا ... أنا كنج كونج" },
+        { "id": "1-3", "text": "\nده أنا أنا رابط إيدى" },
+        { "id": "1-4", "text": "\nبالعب بنج بونج" },
+        { "id": "2-1", "text": "مش ابن هانم ولا اين لورد" },
+        { "id": "2-2", "text": "\nاتفضلى .. هاتى الباسوورد" },
+        { "id": "2-3", "text": "\nده أنا أراجوز متربى فى سيرك" },
+        { "id": "2-4", "text": "\nمش عيل كاورك" },
+        { "id": "3-1", "text": "وأنا . أنا مش خرنج" },
+        { "id": "3-2", "text": "\nلا ... أنا كنج كونج" },
+        { "id": "3-3", "text": "\nده أنا أنا رابط إيدى" },
+        { "id": "3-4", "text": "\nبالعب بنج بونج" }
+      ],
+      "title": "كنج كونج"
+    }
+  ]
+}

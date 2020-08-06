@@ -1,0 +1,115 @@
+{
+  "artist": "ahmed-brada",
+  "lyricsDownloaded": true,
+  "songs": [
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/ahmed-brada-amar-albald-de-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/amar-albald-de-moon-country.html",
+          "id": "148356",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "the moon of this country! the eyes of its nights!"
+            },
+            {
+              "id": "0-2",
+              "text": "\ni am alone up late at night singing for her"
+            },
+            { "id": "0-3", "text": "\nwherever i go , my heart always" },
+            { "id": "0-4", "text": "\nreturns to her" },
+            {
+              "id": "1-1",
+              "text": "the moon of this country! the eyes of its nights!"
+            },
+            {
+              "id": "1-2",
+              "text": "\ni am alone up late at night singing for her"
+            },
+            { "id": "1-3", "text": "\nwherever i go , my heart always" },
+            { "id": "1-4", "text": "\nreturns to her" },
+            { "id": "2-1", "text": "She is the country where i live in" },
+            { "id": "2-2", "text": "\nso in love with her calling her" },
+            { "id": "2-3", "text": "\ni always dream of her" },
+            { "id": "2-4", "text": "\nand she is in my heart forever" },
+            { "id": "3-1", "text": "She is the country where i live in" },
+            { "id": "3-2", "text": "\nso in love with her calling her" },
+            { "id": "3-3", "text": "\ni always dream of her" },
+            { "id": "3-4", "text": "\nand she is in my heart forever" },
+            { "id": "4-1", "text": "i love her and i feel her love" },
+            {
+              "id": "4-2",
+              "text": "\ni love her and i love whoever loves her"
+            },
+            { "id": "4-3", "text": "\ni miss her even when near" },
+            { "id": "4-4", "text": "\nshe is always on time" },
+            { "id": "4-5", "text": "\ni miss her even when near" },
+            { "id": "4-6", "text": "\nshe is always on time" },
+            { "id": "4-7", "text": "\nwaiting with open arms" },
+            { "id": "5-1", "text": "She is the country where i live in" },
+            { "id": "5-2", "text": "\nso in love with her, calling her" },
+            { "id": "5-3", "text": "\ni always dream of her" },
+            { "id": "5-4", "text": "\nand she is in my heart forever" },
+            {
+              "id": "6-1",
+              "text": "the moon of this country! the eyes of its nights!"
+            },
+            {
+              "id": "6-2",
+              "text": "\ni am alone up late at night singing for her"
+            },
+            { "id": "6-3", "text": "\nwherever i go , my heart always" },
+            { "id": "6-4", "text": "\nreturns to her" },
+            { "id": "7-1", "text": "She is the country where i live in" },
+            { "id": "7-2", "text": "\nso in love with her calling her" },
+            { "id": "7-3", "text": "\ni always dream of her" },
+            { "id": "7-4", "text": "\nand she is in my heart forever" }
+          ],
+          "title": "the moon of this country"
+        }
+      ],
+      "id": "148014",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "قمر البلد دى عيون ليلها" },
+        { "id": "0-2", "text": "\nسهران لوحدى بغنيلها" },
+        { "id": "0-3", "text": "\nلو رحت فين دايما قلبى" },
+        { "id": "0-4", "text": "\nبيحن ويلف يجيلها" },
+        { "id": "1-1", "text": "قمر البلد دى عيون ليلها" },
+        { "id": "1-2", "text": "\nسهران لوحدى بغنيلها" },
+        { "id": "1-3", "text": "\nلو رحت فين دايما قلبى" },
+        { "id": "1-4", "text": "\nبيحن ويلف يجيلها" },
+        { "id": "2-1", "text": "هي البلد دى اللى انا فيها" },
+        { "id": "2-2", "text": "\nحبيبة مغرم انا بيها" },
+        { "id": "2-3", "text": "\nطول عمرى وانا بحلم ليها" },
+        { "id": "2-4", "text": "\nوتملى فى القلب شايلها" },
+        { "id": "3-1", "text": "هي البلد دى اللى انا فيها" },
+        { "id": "3-2", "text": "\nحبيبة مغرم انا بيها" },
+        { "id": "3-3", "text": "\nطول عمرى وانا بحلم ليها" },
+        { "id": "3-4", "text": "\nوتملى فى القلب شايلها" },
+        { "id": "4-1", "text": "بحبها وبحس برضه بحبها" },
+        { "id": "4-2", "text": "\nبحبها وبحب اللى يحبها" },
+        { "id": "4-3", "text": "\nواشتاق من غير بعاد" },
+        { "id": "4-4", "text": "\nوالاقيها فى المعاد" },
+        { "id": "4-5", "text": "\nواشتاق من غير بعاد" },
+        { "id": "4-6", "text": "\nوالاقيها فى المعاد" },
+        { "id": "4-7", "text": "\nفتحالى قلبها" },
+        { "id": "5-1", "text": "هي البلد دى اللى انا فيها" },
+        { "id": "5-2", "text": "\nحبيبة مغرم انا بيها" },
+        { "id": "5-3", "text": "\nطول عمرى وانا بحلم ليها" },
+        { "id": "5-4", "text": "\nوتملى فى القلب شايلها" },
+        { "id": "6-1", "text": "قمر البلد دى عيون ليلها" },
+        { "id": "6-2", "text": "\nسهران لوحدى بغنيلها" },
+        { "id": "6-3", "text": "\nلو رحت فين دايما قلبى" },
+        { "id": "6-4", "text": "\nبيحن ويلف يجيلها" },
+        { "id": "7-1", "text": "هي البلد دى اللى انا فيها" },
+        { "id": "7-2", "text": "\nحبيبة مغرم انا بيها" },
+        { "id": "7-3", "text": "\nطول عمرى وانا بحلم ليها" },
+        { "id": "7-4", "text": "\nوتملى فى القلب شايلها" }
+      ],
+      "title": "قمر البلد دى"
+    }
+  ]
+}

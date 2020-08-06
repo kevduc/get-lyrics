@@ -1,0 +1,1534 @@
+{
+  "artist": "shadia",
+  "lyricsDownloaded": true,
+  "songs": [
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Shadya-Ra7-minnak-ya-3en-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/Ra7-minnak-ya-3en-If-he-away-my-eyes.html",
+          "id": "82307",
+          "lyrics": [
+            { "id": "0-1", "text": "If he is away from my eyes" },
+            { "id": "1-1", "text": "Where does he go from my heart" },
+            { "id": "2-1", "text": "The heart loves only once " },
+            { "id": "3-1", "text": "It doesn’t love twice" },
+            { "id": "4-1", "text": "The love in our hearts" },
+            { "id": "5-1", "text": "How the people think about it!!" },
+            {
+              "id": "6-1",
+              "text": "Its occupying us ,however we repented and tried to forget it"
+            },
+            { "id": "7-1", "text": "And we swore on it" },
+            { "id": "8-1", "text": "And however we get far from it" },
+            { "id": "9-1", "text": "It’s forgetness is more hard " },
+            { "id": "10-1", "text": "And why should my eyes fear!" },
+            { "id": "11-1", "text": "Where does he go from my heart" },
+            { "id": "12-1", "text": "The heart loves only once " },
+            { "id": "13-1", "text": "It doesn’t love twice" },
+            {
+              "id": "14-1",
+              "text": "I swear for all suffering With him ,without dating"
+            },
+            {
+              "id": "15-1",
+              "text": "I will make him taste long lonely nights"
+            },
+            { "id": "16-1", "text": "So he will not go away" },
+            { "id": "17-1", "text": "And I will cool my fire by his fire" },
+            { "id": "18-1", "text": "And I will finish my revenge on him" },
+            { "id": "19-1", "text": "Don’t care ,my eyes" },
+            { "id": "20-1", "text": "Where does he go from my heart" },
+            { "id": "21-1", "text": "The heart loves only once " },
+            { "id": "22-1", "text": "It doesn’t love twice" },
+            { "id": "23-1", "text": "Don’t be cruel over me" },
+            { "id": "24-1", "text": "Don’t forget what happened" },
+            { "id": "25-1", "text": "The nights is still coming" },
+            { "id": "26-1", "text": "Even more than what we had" },
+            { "id": "27-1", "text": "Oh from his confusion and pain" },
+            { "id": "28-1", "text": "His eagerness will go day and night" },
+            { "id": "29-1", "text": "Let him go ,my eyes" },
+            { "id": "30-1", "text": "Where does he go from my heart" },
+            { "id": "31-1", "text": "The heart loves only once " },
+            { "id": "32-1", "text": "It doesn’t love twice" }
+          ],
+          "title": "If he is away from my eyes"
+        }
+      ],
+      "id": "82306",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "ان راح منك يا عين" },
+        { "id": "0-2", "text": "\nحيروح من قلبي فين" },
+        { "id": "0-3", "text": "\nده القلب يحب مرة" },
+        { "id": "0-4", "text": "\nميحبش مرتين" },
+        { "id": "0-5", "text": "\nالحب الي في قلوبنا" },
+        { "id": "0-6", "text": "\nالناس فاكرينه ايه" },
+        { "id": "0-7", "text": "\nدة شغلنا مهما تبنا" },
+        { "id": "0-8", "text": "\nولا حلفنا عليه" },
+        { "id": "0-9", "text": "\nومهما بعدنا عنه" },
+        { "id": "0-10", "text": "\nنسيانه اقوى منه" },
+        { "id": "0-11", "text": "\nوتخافي ليه يا عين" },
+        { "id": "0-12", "text": "\nحيروح من قلبي فين" },
+        { "id": "0-13", "text": "\nده القلب يحب مرة" },
+        { "id": "0-14", "text": "\nميحبش مرتين" },
+        { "id": "0-15", "text": "\nوحياة الي جرالي وياه من غير معاد" },
+        { "id": "0-16", "text": "\nلسهره الليالي" },
+        { "id": "0-17", "text": "\nواحرمه البعاد" },
+        { "id": "0-18", "text": "\nواطفي بناره ناري" },
+        { "id": "0-19", "text": "\nواخلص منه تاري" },
+        { "id": "0-20", "text": "\nولايهمك ياعين" },
+        { "id": "0-21", "text": "\nحيروح من قلبي فين" },
+        { "id": "0-22", "text": "\nده القلب يحب مرة" },
+        { "id": "0-23", "text": "\nميحبش مرتين" },
+        { "id": "0-24", "text": "\nاياه يقسى علية" },
+        { "id": "0-25", "text": "\nاياه ينسى الي كان" },
+        { "id": "0-26", "text": "\nلسه الليالي جاية" },
+        { "id": "0-27", "text": "\nواكتر من زمان" },
+        { "id": "0-28", "text": "\nويا حيرته اه يا ويله" },
+        { "id": "0-29", "text": "\nيانهار الشوق وليله" },
+        { "id": "0-30", "text": "\nخليه يروح ياعين" },
+        { "id": "0-31", "text": "\nحيروح من قلبي فين" },
+        { "id": "0-32", "text": "\nده القلب يحب مرة" },
+        { "id": "0-33", "text": "\nميحبش مرتين" }
+      ],
+      "title": "ان راح منك يا عين"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/shadia-khalas-mesafer-%D8%AE%D9%84%D8%A7%D8%B5-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/khalas-mesafer-%D8%AE%D9%84%D8%A7%D8%B5-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-about-travel.html",
+          "id": "2057740",
+          "lyrics": [
+            { "id": "0-1", "text": "About to travel" },
+            { "id": "0-2", "text": "\nTravel travel" },
+            { "id": "0-3", "text": "\nI woke up one of these days" },
+            {
+              "id": "0-4",
+              "text": "\nFelt that I am a stranger, felt the treachery of friends"
+            },
+            {
+              "id": "0-5",
+              "text": "\n& of the one I thought was my love.. & I, oh I"
+            },
+            { "id": "0-6", "text": "\nI who sang a lot on nights" },
+            { "id": "0-7", "text": "\nAt joy a song, & at wounding a song" },
+            {
+              "id": "0-8",
+              "text": "\nAnd patience a song.. I become like this, a stranger!"
+            },
+            {
+              "id": "0-9",
+              "text": "\nI become a stranger, stranger & no one by my side close"
+            },
+            {
+              "id": "0-10",
+              "text": "\nThought to travel, travelling, travelling"
+            },
+            {
+              "id": "1-1",
+              "text": "I'm afraid when you travel to a foreign country"
+            },
+            {
+              "id": "1-2",
+              "text": "\nThat you forget that you're leaving in your country a lover"
+            },
+            {
+              "id": "1-3",
+              "text": "\nWaiting in longing, that's tiring, tiring him.. tired of separation"
+            },
+            {
+              "id": "1-4",
+              "text": "\nAnd lighting you a candle, it's light waiting for you"
+            },
+            {
+              "id": "1-5",
+              "text": "\nAnd in his eyes a tear, wipe it with your own hands"
+            },
+            {
+              "id": "1-6",
+              "text": "\nWhen you come back to me again,oh again again again from the foreign country    [all x2]"
+            },
+            { "id": "1-7", "text": "\nــــــــــــــــــــــــــــ" },
+            { "id": "1-8", "text": "\nTwo days & I'm travelling" },
+            {
+              "id": "1-9",
+              "text": "\nMaybe I find forbearance/tolerance in my way"
+            },
+            {
+              "id": "1-10",
+              "text": "\nMaybe I find rest in my foreignness.. Two days & I'm travelling"
+            },
+            { "id": "2-1", "text": "I wished to be beside you" },
+            {
+              "id": "2-2",
+              "text": "\nA lover from your homeland, that stays up caring for your rest"
+            },
+            {
+              "id": "2-3",
+              "text": "\nBecomes happy in your happiness, & shares your pain"
+            },
+            { "id": "2-4", "text": "\nAnd worries to carry away from you" },
+            { "id": "2-5", "text": "\nWhen you come back to me again again," },
+            {
+              "id": "2-6",
+              "text": "\nOh again again again from the foreign country"
+            },
+            { "id": "3-1", "text": "Two days & I'm travelling" },
+            {
+              "id": "3-2",
+              "text": "\nMaybe I find forbearance/tolerance in my way"
+            },
+            { "id": "3-3", "text": "\nMaybe I find rest in my foreignness" },
+            {
+              "id": "4-1",
+              "text": "I'm afraid that you find a rose, that looks pretty in your eyes"
+            },
+            {
+              "id": "4-2",
+              "text": "\nAnd you forget me & sway to pick her with your hands"
+            },
+            {
+              "id": "4-3",
+              "text": "\nAnd her thorns wound you & that you suffer there, there, there"
+            },
+            {
+              "id": "4-4",
+              "text": "\nPick the rose with my own hands, & don't wound your hands"
+            },
+            {
+              "id": "4-5",
+              "text": "\nLeave the wounding for me & the happiness for you♥"
+            },
+            { "id": "5-1", "text": "But just come back for me again again" },
+            {
+              "id": "5-2",
+              "text": "\nOh again again again from the foreign country"
+            },
+            { "id": "5-3", "text": "\nــــــــــــــــــــــــــــ" }
+          ],
+          "title": "About to Travel"
+        }
+      ],
+      "id": "2016273",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "خلاص مسافر" },
+        { "id": "0-2", "text": "\nمسافر مسافر" },
+        { "id": "0-3", "text": "\nصحيت في يوم من الأيام" },
+        { "id": "0-4", "text": "\nحسيت اني يا عيني غريب حسيت بغدر الصحاب" },
+        { "id": "0-5", "text": "\nوإلي فتكرته حبيبي ... وانا ده انا" },
+        { "id": "0-6", "text": "\nانا إلي ياما غنيت على الليالي" },
+        { "id": "0-7", "text": "\nفي الفرح موال وفي الجرح موال" },
+        { "id": "0-8", "text": "\nوالصبر موال اصبح على دي الحال غريب" },
+        { "id": "0-9", "text": "\nاصبح انا غريب غريب ولا حد جنبي قريب" },
+        { "id": "0-10", "text": "\nقلت أسافر مسافر مسافر" },
+        { "id": "0-11", "text": "\nخايفة لما تسافر على البلد الغريب" },
+        { "id": "0-12", "text": "\nآه تنسى انك فايت في بلدك حبيب" },
+        {
+          "id": "0-13",
+          "text": "\nمستني بأشواق تعباه تعباه ... تعبان من الفراق"
+        },
+        { "id": "0-14", "text": "\nومولعلك شمعة نورها مستنيك. آه" },
+        { "id": "0-15", "text": "\nوفي عيونه دمعة امسحها بايديك" },
+        {
+          "id": "0-16",
+          "text": "\nلما تجيني تاني تاني آه تاني تاني تاني من البلد الغريب"
+        },
+        { "id": "1-1", "text": "يومين وأسافر" },
+        { "id": "1-2", "text": "\nيمكن أقابل الصبر في سكتي" },
+        { "id": "1-3", "text": "\nيمكن ألاقي الراحة في غربتي" },
+        { "id": "1-4", "text": "\nكان نفسي اكون جنبك" },
+        { "id": "1-5", "text": "\nحبيبة من بلدك تسهر على راحتك" },
+        { "id": "1-6", "text": "\nتفرحلك في فرحك وتقاسمك في جرحك" },
+        { "id": "1-7", "text": "\nوالهم تشيله عنك" },
+        { "id": "1-8", "text": "\nلما تجيني تاني تاني" },
+        { "id": "1-9", "text": "\nآه تاني تاني تاني من البلد الغريب" },
+        { "id": "2-1", "text": "يومين وأسافر" },
+        { "id": "2-2", "text": "\nيمكن أقابل الصبر في سكتي" },
+        { "id": "2-3", "text": "\nيمكن ألاقي الراحة في غربتي" },
+        { "id": "2-4", "text": "\nخايفة تلاقي وردة تحلو في عينيك" },
+        { "id": "2-5", "text": "\nتنساني وتميل تقطفها بايديك" },
+        { "id": "2-6", "text": "\nوتجرحك الأشواك وتتعذب هناك" },
+        { "id": "2-7", "text": "\nاقطفها بايديا وما تجرحش ايديك" },
+        { "id": "2-8", "text": "\nسيب الجرح ليا وخلي الفرح ليك" },
+        { "id": "2-9", "text": "\nبس ارجعلي تاني تاني" },
+        { "id": "2-10", "text": "\nتاني تاني تاني من البلد الغريب" },
+        { "id": "3-1", "text": "خلاص مسافر . مسافر . مسافر" },
+        { "id": "3-2", "text": "\nصحيت في يوم من الايام" },
+        { "id": "3-3", "text": "\nحسيت اني يا عيني غريب حسيت بغدر الصحاب" },
+        { "id": "3-4", "text": "\nوإلي فتكرته حبيبي ... وانا ده انا" },
+        { "id": "3-5", "text": "\nانا إلي ياما غنيت على الليالي" },
+        { "id": "3-6", "text": "\nفي الفرح موال وفي الجرح موال والصبر موال" },
+        { "id": "3-7", "text": "\nاصبح على دي الحال غريب" },
+        { "id": "3-8", "text": "\nاصبح انا غريب غريب ولا حد جنبي قريب" },
+        { "id": "3-9", "text": "\nقلت أسافر مسافر مسافر" },
+        { "id": "3-10", "text": "\nخايفة لما تسافر على البلد الغريب" },
+        { "id": "3-11", "text": "\nتنسى انك فايت في بلدك حبيب" },
+        { "id": "3-12", "text": "\nخايفة لما تسافر على البلد الغريب" },
+        { "id": "3-13", "text": "\nتنسى انك فايت في بلدك حبيب" },
+        { "id": "3-14", "text": "\nخايفة لما تسافر على البلد الغريب" },
+        { "id": "3-15", "text": "\nتنسى انك فايت في بلدك حبيب" },
+        {
+          "id": "3-16",
+          "text": "\nمستني بأشواق تعباه تعباه ... تعبان من الفراق"
+        },
+        { "id": "3-17", "text": "\nومولعلك شمعة نورها مستنيك. آه" },
+        { "id": "3-18", "text": "\nوفي عيونه دمعة امسحها بايديك" },
+        { "id": "3-19", "text": "\nومولعلك شمعة نورها مستنيك. آه" },
+        { "id": "3-20", "text": "\nوفي عيونه دمعة امسحها بايديك" },
+        {
+          "id": "3-21",
+          "text": "\nلما تجيني تاني تاني آه تاني تاني تاني من البلد الغريب"
+        },
+        { "id": "4-1", "text": "يومين وأسافر" },
+        { "id": "4-2", "text": "\nيمكن أقابل الصبر في سكتي" },
+        { "id": "4-3", "text": "\nيمكن ألاقي الراحة في غربتي" },
+        { "id": "4-4", "text": "\nيومين وأسافر" },
+        { "id": "4-5", "text": "\nكان نفسي اكون جنبك" },
+        { "id": "4-6", "text": "\nحبيبه . حبيبه من بلدك تسهر على راحتك" },
+        { "id": "4-7", "text": "\nكان نفسي اكون جنبك" },
+        { "id": "4-8", "text": "\nحبيبه . حبيبه من بلدك تسهر على راحتك" },
+        { "id": "4-9", "text": "\nكان نفسي اكون جنبك" },
+        { "id": "4-10", "text": "\nحبيبه . حبيبه من بلدك تسهر على راحتك" },
+        { "id": "4-11", "text": "\nتفرحلك في فرحك وتقاسمك في جرحك" },
+        { "id": "4-12", "text": "\nوالهم تشيله عنك" },
+        { "id": "4-13", "text": "\nتفرحلك في فرحك وتقاسمك في جرحك" },
+        { "id": "4-14", "text": "\nوالهم تشيله عنك" },
+        { "id": "4-15", "text": "\nلما تجيني تاني تاني" },
+        { "id": "4-16", "text": "\nآه تاني تاني تاني من البلد الغريب" },
+        { "id": "4-17", "text": "\nيومين وأسافر" },
+        { "id": "4-18", "text": "\nيمكن أقابل الصبر في سكتي" },
+        { "id": "4-19", "text": "\nيمكن ألاقي الراحة في غربتي" },
+        { "id": "5-1", "text": "يومين وأسافر" },
+        { "id": "5-2", "text": "\nخايفة تلاقي وردة تحلو في عينيك" },
+        { "id": "5-3", "text": "\nتنساني وتميل تقطفها بايديك" },
+        { "id": "5-4", "text": "\nخايفة تلاقي وردة تحلو في عينيك" },
+        { "id": "5-5", "text": "\nتنساني وتميل تقطفها بايديك" },
+        { "id": "5-6", "text": "\nخايفة تلاقي وردة تحلو في عينيك" },
+        { "id": "5-7", "text": "\nتنساني وتميل تقطفها بايديك" },
+        { "id": "5-8", "text": "\nوتجرحك الأشواك وتتعذب هناك . هناك . هناك" },
+        { "id": "5-9", "text": "\nاقطفها بايديا وما تجرحش ايديك" },
+        { "id": "5-10", "text": "\nسيب الجرح ليا وخلي الفرح ليك" },
+        { "id": "5-11", "text": "\nاقطفها بايديا وما تجرحش ايديك" },
+        { "id": "5-12", "text": "\nسيب الجرح ليا وخلي الفرح ليك" },
+        { "id": "5-13", "text": "\nبس ارجعلي تاني تاني" },
+        { "id": "5-14", "text": "\nتاني تاني تاني من البلد الغريب" }
+      ],
+      "title": "خلاص مسافر"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Haifa-Wahbe-Makhasimni-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/Makhasimni-Makhasimni.html",
+          "id": "127238",
+          "lyrics": [
+            { "id": "0-1", "text": "He hasn't spoken to me for some time" },
+            { "id": "1-1", "text": "and one night passion called to me" },
+            { "id": "2-1", "text": "I called him, heard his voice" },
+            { "id": "3-1", "text": "and hung up the phone once again" },
+            { "id": "4-1", "text": "Oh, how much I miss him" },
+            { "id": "5-1", "text": "and his silence is killing me" },
+            { "id": "6-1", "text": "Oh, how much I miss him" },
+            { "id": "7-1", "text": "and his silence is killing me" },
+            { "id": "8-1", "text": "I called him, heard his voice" },
+            { "id": "9-1", "text": "and hung up the phone once again" },
+            { "id": "10-1", "text": "When my friends came over" },
+            { "id": "11-1", "text": "I had them ask for him" },
+            { "id": "12-1", "text": "And I gave them a look with my eyes" },
+            { "id": "13-1", "text": "Telling them to ask him about me" },
+            { "id": "14-1", "text": "They asked and he said stuff" },
+            { "id": "15-1", "text": "But no one mentioned the argument" },
+            { "id": "16-1", "text": "and I hung up the phone once again" }
+          ],
+          "title": "Makhasimni"
+        }
+      ],
+      "id": "127237",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "مخاصمنى بقاله مده" },
+        { "id": "0-2", "text": "\nوف ليله الشوق نادانى" },
+        { "id": "0-3", "text": "\nكلمته سمعت حسه" },
+        { "id": "0-4", "text": "\nوقفلت السكه تاني" },
+        { "id": "1-1", "text": "اكمنه يا ناس واحشني" },
+        { "id": "1-2", "text": "\nوخصامه كمان حايشني" },
+        { "id": "1-3", "text": "\nكلمته سمعت حسه" },
+        { "id": "1-4", "text": "\nوقفلت السكه تاني" },
+        { "id": "2-1", "text": "باليل والدنيا ضلمه" },
+        { "id": "2-2", "text": "\nدورت نمرته" },
+        { "id": "2-3", "text": "\nوسكت ما قلت كلمه" },
+        { "id": "2-4", "text": "\nوانا باسمع همسته" },
+        { "id": "3-1", "text": "قال: أيوه الو..مين ؟" },
+        { "id": "3-2", "text": "\nوانا بايدي اليمين" },
+        { "id": "3-3", "text": "\nخدت السماعه ابوسها" },
+        { "id": "3-4", "text": "\nوقفلت السكه تاني" },
+        { "id": "4-1", "text": "وفتحت الراديو مره" },
+        { "id": "4-2", "text": "\nعلى غنوه بتعجبه" },
+        { "id": "4-3", "text": "\nسبت التليفون عليها" },
+        { "id": "4-4", "text": "\nوانا بقصد اغلبه" },
+        { "id": "5-1", "text": "كل كلمة حب حلوة قولتهالي\"" },
+        { "id": "5-2", "text": "\n\"كل همسة شوق بشوق سمعتهالي" },
+        { "id": "6-1", "text": "سمعها للنهايه" },
+        { "id": "6-2", "text": "\nوفرحت انه معايا" },
+        { "id": "6-3", "text": "\nمن غير ما هو يعرف" },
+        { "id": "6-4", "text": "\nوقفلت السكه تاني" },
+        { "id": "7-1", "text": "وف مره جم صحابي" },
+        { "id": "7-2", "text": "\nخليتهم يطلبوه" },
+        { "id": "7-3", "text": "\nوغمزت لهم بعيني" },
+        { "id": "7-4", "text": "\nيعني عني اسألوه" },
+        { "id": "8-1", "text": "سألوه قام قال كلام" },
+        { "id": "8-2", "text": "\nمافيهوش سيرة الخصام" },
+        { "id": "8-3", "text": "\nاتطمن قلبي حبة" },
+        { "id": "8-4", "text": "\nوقفلنا السكة تاني" },
+        { "id": "9-1", "text": "شايفين يا ناس عشانه" },
+        { "id": "9-2", "text": "\nانا دايما باعمل ايه؟" },
+        { "id": "9-3", "text": "\nاطلبه واشمعنى هوه" },
+        { "id": "9-4", "text": "\nما طلبش مره ليه؟" },
+        { "id": "10-1", "text": "ياريت يطلب ويقفل" },
+        { "id": "10-2", "text": "\nيعمل زي ما باعمل" },
+        { "id": "10-3", "text": "\nهاعرف انه فاكرني" },
+        { "id": "10-4", "text": "\nلو قفل السكه تاني" }
+      ],
+      "title": "مخاصمني بقاله مدة"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/shadia-mansour-%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9-%D9%88%D8%AD%D9%8A%D8%A7%D8%A9-%D8%B9%D9%86%D9%8A%D9%83-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/%D9%88%D8%AD%D9%8A%D8%A7%D8%A9-%D8%B9%D9%86%D9%8A%D9%83-i-swear-your-eyes.html",
+          "id": "1623751",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "I swear upon your eyes, and I'd sacrifice mine for them,"
+            },
+            { "id": "0-2", "text": "\nI love you as much as I love my eyes1" },
+            {
+              "id": "0-3",
+              "text": "\nNo, as much as my soul.. No, no, that's not enough"
+            },
+            {
+              "id": "0-4",
+              "text": "\nWell, as much as my life, still not enough"
+            },
+            {
+              "id": "0-5",
+              "text": "\nYou confused me.. bedazzled me.. why did you make me grow so weary with you?"
+            },
+            {
+              "id": "0-6",
+              "text": "\nYou made me forget what I was going to tell you"
+            },
+            { "id": "0-7", "text": "\nOh!" },
+            {
+              "id": "0-8",
+              "text": "\nI swear by your eyes, and I'd sacrifice mine for them,"
+            },
+            { "id": "0-9", "text": "\nI love you as much as I love my eyes1" },
+            {
+              "id": "0-10",
+              "text": "\nNo one before you has reached my heart"
+            },
+            {
+              "id": "0-11",
+              "text": "\nAnd no one after you would truly content me, my darling2 "
+            },
+            {
+              "id": "1-1",
+              "text": "I used to be scared of your love, of you treating your lovers unfairly"
+            },
+            {
+              "id": "1-2",
+              "text": "\nBut in spite of me, my heart did it and loved you"
+            },
+            {
+              "id": "2-1",
+              "text": "I can't not love you, I swear by your life I can't"
+            },
+            {
+              "id": "2-2",
+              "text": "\nI can't not love you, I swear by your life I can't"
+            },
+            {
+              "id": "2-3",
+              "text": "\nI can't not love you, I swear by your life I can't"
+            },
+            {
+              "id": "3-1",
+              "text": "In your hands lies a power enough to topple mountains"
+            },
+            { "id": "3-2", "text": "\nIn your hands lies a power" },
+            {
+              "id": "3-3",
+              "text": "\nAnd you have such patience and forbearance"
+            },
+            { "id": "3-4", "text": "\nand your eyes are beautiful" },
+            {
+              "id": "4-1",
+              "text": "I can't not love you, I swear by your life I can't"
+            },
+            {
+              "id": "4-2",
+              "text": "\nI can't not love you, I swear by your life I can't"
+            },
+            { "id": "5-1", "text": "If you want to be upset with me, be so" },
+            { "id": "5-2", "text": "\nBut don't you go away from me" },
+            { "id": "5-3", "text": "\nIf you want us to make up, come" },
+            { "id": "5-4", "text": "\nbefore passion drives me crazy" },
+            {
+              "id": "6-1",
+              "text": "I know that you are kind, and you will come to me soon"
+            },
+            {
+              "id": "6-2",
+              "text": "\nOr you will call me, and I will answer the call with a yes"
+            },
+            { "id": "6-3", "text": "\nOh my darling3" }
+          ],
+          "title": "[I Swear] upon Your Eyes"
+        }
+      ],
+      "id": "1622923",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "و حياه عينيك و فداها عينيه" },
+        { "id": "0-2", "text": "\nأنا بحبك قد عينيا" },
+        { "id": "0-3", "text": "\nلا قد روحى .. لا لا شويه" },
+        { "id": "0-4", "text": "\nطب قد عمرى .. بردو شويه" },
+        { "id": "0-5", "text": "\nحيرتنى .. توهتنى .. غلبتنى و ياك كده ليه" },
+        { "id": "0-6", "text": "\nنستنى كنت هقولك ايه" },
+        { "id": "0-7", "text": "\nآه" },
+        { "id": "0-8", "text": "\nو حياه عينيك و فداها عينيه" },
+        { "id": "0-9", "text": "\nأنا بحبك قد عينيا" },
+        { "id": "0-10", "text": "\nو لا حد قبلك .. فات على قلبي" },
+        { "id": "0-11", "text": "\nو لا حد بعدك يملا عينيه يا عنيه" },
+        { "id": "1-1", "text": "كنت بخاف من حبك من ظلمك لحبايبك" },
+        { "id": "1-2", "text": "\nلكن غصبن عنى قلبى عملها و حبك" },
+        { "id": "2-1", "text": "ما اقدرش ما احبكش و حياتك ما اقدرش" },
+        { "id": "2-2", "text": "\nما اقدرش ما احبكش و حياتك ما اقدرش" },
+        { "id": "2-3", "text": "\nما اقدرش ما احبكش و حياتك ما اقدرش" },
+        { "id": "3-1", "text": "فى ايديك قوه تهد جبال" },
+        { "id": "3-2", "text": "\nفى ايديك قوه" },
+        { "id": "3-3", "text": "\nو عليك صبر وطولة بال" },
+        { "id": "3-4", "text": "\nو عينيك حلوه" },
+        { "id": "4-1", "text": "ما اقدرش ما احبكش و حياتك ما اقدرش" },
+        { "id": "4-2", "text": "\nما اقدرش ما احبكش و حياتك ما اقدرش" },
+        { "id": "5-1", "text": "عايز تخاصمني خاصمني" },
+        { "id": "5-2", "text": "\nبس اوعى تبعد عنى" },
+        { "id": "5-3", "text": "\nعايز تصالحني تعالى" },
+        { "id": "5-4", "text": "\nقبل الشوق ما يجنني" },
+        { "id": "6-1", "text": "عارفه انك طيب هتجينى قريب" },
+        { "id": "6-2", "text": "\nو لا هتندهلى و اقولك طيب" },
+        { "id": "6-3", "text": "\nيا عنيه" }
+      ],
+      "title": "وحياة عنيك"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/shadia-%D8%A7%D9%87-%D9%8A%D8%A7-%D8%A7%D8%B3%D9%85%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%84%D9%88%D9%86-asmarani-allon-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/%D9%8A%D8%A7-%D8%A7%D8%B3%D9%85%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%84%D9%88%D9%86-yasmarani-el-lon-oh-you-tanned-complexion.html",
+          "id": "2563802",
+          "lyrics": [
+            { "id": "0-1", "text": "Oh you with the tanned colour" },
+            { "id": "0-2", "text": "\nMy love, O tanned one." },
+            { "id": "0-3", "text": "\nMy eyes, eyes have forgotten me" },
+            { "id": "0-4", "text": "\nMy love, O tanned one." },
+            { "id": "1-1", "text": "Oh, under those eyelashes lies reproach," },
+            { "id": "1-2", "text": "\nand longing and torture" },
+            { "id": "1-3", "text": "\nand eyes that never sleep." },
+            {
+              "id": "1-4",
+              "text": "\nOh I tasted with you the taste of the days"
+            },
+            { "id": "1-5", "text": "\nand now you leave me, really? " },
+            { "id": "2-1", "text": "They came to me, they asked me" },
+            { "id": "2-2", "text": "\nMy eye's tears responded to them" },
+            {
+              "id": "3-1",
+              "text": "For you I would walk the lengths of countries"
+            },
+            { "id": "3-2", "text": "\nMy love, O tanned one." },
+            { "id": "3-3", "text": "\nWithout neither water nor provision" },
+            { "id": "3-4", "text": "\nMy love, O tanned one." },
+            { "id": "4-1", "text": "Oh, you whose eyes are a candle," },
+            { "id": "4-2", "text": "\na smile, an ocean and a summer breeze." },
+            { "id": "4-3", "text": "\nOh you set anchor" },
+            { "id": "4-4", "text": "\nand I was in the middle of love" },
+            { "id": "4-5", "text": "\nbewildered without an oar." },
+            { "id": "5-1", "text": "They came to me, they asked me" },
+            { "id": "5-2", "text": "\nMy eye's tears responded to them" },
+            { "id": "6-1", "text": "O bird that is travelling afar" },
+            { "id": "6-2", "text": "\nGo tell the tanned one" },
+            {
+              "id": "6-3",
+              "text": "\nWhy did he travel and forget the appointed times?"
+            },
+            { "id": "6-4", "text": "\nMy love, O tanned one" },
+            { "id": "7-1", "text": "Why, and you feel love" },
+            {
+              "id": "7-2",
+              "text": "\nmore than me, and your heart is thirsty?"
+            },
+            {
+              "id": "7-3",
+              "text": "\nWhy, and you had told me if I became absent,"
+            },
+            {
+              "id": "7-4",
+              "text": "\nthe most beautiful place on this world would become absent too?"
+            },
+            { "id": "8-1", "text": "They came to me, they asked me" },
+            { "id": "8-2", "text": "\nMy eye's tears responded to them" },
+            {
+              "id": "9-1",
+              "text": "They said and I said, my medicine is eyes"
+            },
+            { "id": "9-2", "text": "\nof my love, the tanned one" },
+            {
+              "id": "9-3",
+              "text": "\nThey drown me in the magic of their colour"
+            },
+            { "id": "9-4", "text": "\nMy love, O tanned one." }
+          ],
+          "title": "Oh, you with the tanned complexion!"
+        }
+      ],
+      "id": "2465302",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "اه يا اسمراني اللون" },
+        { "id": "0-2", "text": "\nحبيبي الاسمراني" },
+        { "id": "0-3", "text": "\nيا عيوني ناسياني عيون" },
+        { "id": "0-4", "text": "\nحبيبي الاسمراني" },
+        { "id": "1-1", "text": "اه تحت الرمش عتاب" },
+        { "id": "1-2", "text": "\nوحنين وعذاب" },
+        { "id": "1-3", "text": "\nوعيون ما تنام" },
+        { "id": "1-4", "text": "\nاه دقت معاك طعم الايام" },
+        { "id": "1-5", "text": "\nوالوقتى تغيب يا سلام" },
+        { "id": "2-1", "text": "جوني... سألوني" },
+        { "id": "2-2", "text": "\nجاوبتهم عني دموع عيني" },
+        { "id": "3-1", "text": "علشانك امشيها بلاد" },
+        { "id": "3-2", "text": "\nيا حبيبي يا اسمراني" },
+        { "id": "3-3", "text": "\nمن غير ولا ميه ولا زاد" },
+        { "id": "3-4", "text": "\nيا حبيبي يا اسمراني" },
+        { "id": "4-1", "text": "اه ياللي عيونك شمعه" },
+        { "id": "4-2", "text": "\nوضحكة وبحر ونسمة صيف" },
+        { "id": "4-3", "text": "\nاه انت رسيت" },
+        { "id": "4-4", "text": "\nوانا وسط الشوق" },
+        { "id": "4-5", "text": "\nحيران من غير مجاديف" },
+        { "id": "5-1", "text": "جوني... سألوني" },
+        { "id": "5-2", "text": "\nجاوبتهم عني دموع عيني" },
+        { "id": "6-1", "text": "يا طير يا مسافر لبعيد" },
+        { "id": "6-2", "text": "\nروح قول للأسمراني" },
+        { "id": "6-3", "text": "\nليه سافر ونسي المواعيد" },
+        { "id": "6-4", "text": "\nيا حبيبي يا اسمراني" },
+        { "id": "7-1", "text": "ليه وانت تحس الشوق" },
+        { "id": "7-2", "text": "\nاكتر مني وقلبك عطشان" },
+        { "id": "7-3", "text": "\nليه وانت قايل لي ان غبت" },
+        { "id": "7-4", "text": "\nيغيب م الدنيا أحلى مكان" },
+        { "id": "8-1", "text": "جوني... سألوني" },
+        { "id": "8-2", "text": "\nجاوبتهم عني دموع عيني" },
+        { "id": "9-1", "text": "قالوا وقلت دوايا عيون" },
+        { "id": "9-2", "text": "\nحبيبي الاسمرانى" },
+        { "id": "9-3", "text": "\nبتغرقنى فى سحر اللون" },
+        { "id": "9-4", "text": "\nيا حبيبى يا اسمرانى" }
+      ],
+      "title": "يا اسمراني اللون"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/shadia-%D9%8A%D8%A7-%D8%A7%D9%85-%D8%A7%D9%84%D8%B5%D8%A7%D8%A8%D8%B1%D9%8A%D9%86-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/%D9%8A%D8%A7-%D8%A7%D9%85-%D8%A7%D9%84%D8%B5%D8%A7%D8%A8%D8%B1%D9%8A%D9%86-o-mother-patient.html",
+          "id": "2820334",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "O Mother of the patient, we were lost and found."
+            },
+            {
+              "id": "1-1",
+              "text": "O Mother of the patient, upon hope we crossed."
+            },
+            {
+              "id": "2-1",
+              "text": "O Egypt our mother ... O Egypt our land, O Egypt our love."
+            },
+            { "id": "3-1", "text": "O Egypt O our passion" },
+            {
+              "id": "4-1",
+              "text": "We walked and came, upon hope we crossed. O flower of freedom, you who shade us."
+            },
+            {
+              "id": "5-1",
+              "text": "From your gold, my love dressed me a necklace."
+            },
+            {
+              "id": "6-1",
+              "text": "From your Nile, my love gave me a drink of honey."
+            },
+            {
+              "id": "7-1",
+              "text": "From your wheat, my love fed me the morsel."
+            },
+            {
+              "id": "8-1",
+              "text": "From your patience, my love taught me wisdom."
+            },
+            {
+              "id": "9-1",
+              "text": "O Egypt our mother ... O Egypt our land, O Egypt our love."
+            },
+            { "id": "10-1", "text": "O Egypt our passion." },
+            {
+              "id": "11-1",
+              "text": "From your stories, my love sang for me my tale."
+            },
+            {
+              "id": "12-1",
+              "text": "From your flowers, my love decorated my mirror."
+            },
+            {
+              "id": "13-1",
+              "text": "From your cotton, my love weaved my dress."
+            },
+            {
+              "id": "14-1",
+              "text": "From your hope, my lover explained my writings."
+            },
+            {
+              "id": "15-1",
+              "text": "O Egypt our mother ... O Egypt our land, O Egypt our love."
+            },
+            { "id": "16-1", "text": "O Egypt O our passion" },
+            {
+              "id": "17-1",
+              "text": "From your goodness, my love inclined and gave me."
+            },
+            {
+              "id": "18-1",
+              "text": "From your love, my love taught me my faith."
+            },
+            {
+              "id": "19-1",
+              "text": "From your land, my love gifted me a rose."
+            },
+            {
+              "id": "20-1",
+              "text": "From your dawn, my love delighted me with tomorrow."
+            },
+            {
+              "id": "21-1",
+              "text": "O Egypt our mother ... O Egypt our land, O Egypt our love."
+            },
+            { "id": "22-1", "text": "O Egypt O our passion" }
+          ],
+          "title": "O Mother of the patient"
+        }
+      ],
+      "id": "2764081",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "يا ام الصابرين، تهنا و إلتقينا" },
+        { "id": "1-1", "text": "يا ام الصابرين،، ع الألم عدينا" },
+        {
+          "id": "2-1",
+          "text": "يا مصر يا امنا،، يا مصر يا ارضنا، يا مصر يا حبنا"
+        },
+        { "id": "3-1", "text": "يا مصر يا يا يا عشقنا" },
+        {
+          "id": "4-1",
+          "text": "مشينا و جينا، للأمل عدينا، يا ورد الحرية، يا مضلل علينا"
+        },
+        { "id": "5-1", "text": "من دهبك لبسني العقد حبيبي" },
+        { "id": "6-1", "text": "من نيلك سقاني الشهد حبيبي" },
+        { "id": "7-1", "text": "من قمحك وكلني اللقمة حبيبي" },
+        { "id": "8-1", "text": "من صبرك علمني الحكمة حبيبي" },
+        {
+          "id": "9-1",
+          "text": "يا مصر يا امنا،، يا مصر يا ارضنا، يا مصر يا حبنا"
+        },
+        { "id": "10-1", "text": "يا مصر يا عشقنا" },
+        { "id": "11-1", "text": "من قصصك غنالي حكايتي، حبيبي" },
+        { "id": "12-1", "text": "من وردك ذوقلي مرايتي، حبيبي" },
+        { "id": "13-1", "text": "من قطنك غزللي توبي، حبيبي" },
+        { "id": "14-1", "text": "من أملك فسر مكتوبي، حبيبي" },
+        {
+          "id": "15-1",
+          "text": "يا مصر يا امنا،، يا مصر يا ارضنا، يا مصر يا حبنا"
+        },
+        { "id": "16-1", "text": "يا مصر يا عشقنا" },
+        { "id": "17-1", "text": "من خيرك ميّل و إداني، حبيبي" },
+        { "id": "18-1", "text": "من حبك علمني إيماني، حبيبي" },
+        { "id": "19-1", "text": "من ارضك أهداني زهرة، حبيبي" },
+        { "id": "20-1", "text": "من فجرك فرحني ببكرة، حبيبي" },
+        {
+          "id": "21-1",
+          "text": "يا مصر يا امنا،، يا مصر يا ارضنا، يا مصر يا حبنا"
+        },
+        { "id": "22-1", "text": "يا مصر يا عشقنا" }
+      ],
+      "title": "يا ام الصابرين"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/shadya-ya-habeebty-ya-masr-%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%8A-%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/ya-habeebty-ya-masr-%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%8A-%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-oh-egypt-my-love.html",
+          "id": "1381205",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "Oh, my country, you are the most beautiful country"
+            },
+            {
+              "id": "0-2",
+              "text": "\nMyself and [all] the boys are worth sacrificing for you, my country"
+            },
+            { "id": "0-3", "text": "\nOh, my country" },
+            { "id": "0-4", "text": "\nOh, my country" },
+            { "id": "0-5", "text": "\nOh, Egypt, My love" },
+            { "id": "0-6", "text": "\nOh, Egypt, My love " },
+            {
+              "id": "1-1",
+              "text": "Didn't he see the hope in the eyes of the boy,"
+            },
+            { "id": "1-2", "text": "\nand the girls of the country?" },
+            {
+              "id": "1-3",
+              "text": "\nNor did he see work staying up late in the country?"
+            },
+            { "id": "1-4", "text": "\nAnd so was determination born" },
+            {
+              "id": "2-1",
+              "text": "Nor did he see The Nile in the embrace of the trees?"
+            },
+            {
+              "id": "2-2",
+              "text": "\nNor did he listen to mawwal1 songs in the moonlit nights?"
+            },
+            { "id": "2-3", "text": "\nIt is because he didn't pass by Egypt" },
+            { "id": "2-4", "text": "\nIt is because he didn't pass by Egypt" },
+            { "id": "3-1", "text": "Oh, Egypt, My love" },
+            { "id": "3-2", "text": "\nOh, Egypt, My love " },
+            {
+              "id": "4-1",
+              "text": "Oh, my country, you are the most beautiful country"
+            },
+            {
+              "id": "4-2",
+              "text": "\nMyself and [all] the boys are worth sacrificing for you, my country"
+            },
+            { "id": "4-3", "text": "\nOh, my country" },
+            { "id": "4-4", "text": "\nOh, my country" },
+            { "id": "5-1", "text": "Didn't he see the swarthy strong men," },
+            { "id": "5-2", "text": "\nrising above all calamities?" },
+            {
+              "id": "5-3",
+              "text": "\nNor did he see the stubbornness in the eyes of the boys,"
+            },
+            { "id": "5-4", "text": "\nand their challenging of time?" },
+            {
+              "id": "5-5",
+              "text": "\nNor did he see the perseverance in the eyes of the people?"
+            },
+            {
+              "id": "5-6",
+              "text": "\nIt says: We are free and must be victorious"
+            },
+            { "id": "6-1", "text": "It is because he didn't pass by Egypt" },
+            { "id": "6-2", "text": "\nIt is because he didn't pass by Egypt" },
+            { "id": "7-1", "text": "Oh, Egypt, My love" },
+            { "id": "7-2", "text": "\nOh, Egypt, My love " },
+            {
+              "id": "8-1",
+              "text": "Oh, my country, you are the most beautiful country"
+            },
+            {
+              "id": "8-2",
+              "text": "\nMyself and [all] the boys are worth sacrificing for you, my country"
+            },
+            { "id": "8-3", "text": "\nOh, my country" },
+            { "id": "8-4", "text": "\nOh, my country" },
+            { "id": "9-1", "text": "Oh, Egypt, My love" },
+            { "id": "9-2", "text": "\nOh, Egypt, My love " }
+          ],
+          "title": "Oh Egypt, My Love"
+        }
+      ],
+      "id": "1381161",
+      "transliteration": {
+        "id": "custom-2316706",
+        "lyrics": [
+          {
+            "id": "0-1",
+            "text": "Ya blada ya 'ahlaa albilad ya blada fadakaa 'iinaa walwilad ya blada blada"
+          },
+          {
+            "id": "0-2",
+            "text": "\nya blada blada ya blada ya hbybta ya misr ya misr ya hbybta ya misr ya misr x2"
+          },
+          { "id": "1-1", "text": "Ma shfsh al'amal f'euyun alwilad" },
+          {
+            "id": "1-2",
+            "text": "\nw sabaya albalad wala shaf aleamal sahran f albilad"
+          },
+          { "id": "1-3", "text": "\nw aleazm atuwalad x2" },
+          {
+            "id": "2-1",
+            "text": "Wala shaf alnayl f ahdan alshajar wala sumie mawawil f lialaa alqamar x2"
+          },
+          {
+            "id": "3-1",
+            "text": "Asluh miedash ealaa misr asluh miedash ealaa misr ya hbybta ya misr ya misr ya hbybta ya misr ya misr "
+          },
+          {
+            "id": "4-1",
+            "text": "Ya blada ya 'ahlaa albilad ya blada fadakaa 'iinaa walwilad ya blada blada ya blada blada ya blada ya hbybta ya misr ya misr ya hbybta ya misr ya misr x2"
+          },
+          {
+            "id": "5-1",
+            "text": "Ma shafash alrijal alsamar alshadad fawq kli almahan wala shafa aleinad f'euyun alwilad w tahadaa alzaman x2"
+          },
+          {
+            "id": "6-1",
+            "text": "Wala shaf 'iisrar f euyun albashar bayaqul ahrar walazim nantasir x2"
+          },
+          {
+            "id": "7-1",
+            "text": "Asluh miedash ealaa misr asluh miedash ealaa misr ya hbybta ya misr ya misr ya hbybta ya misr ya misr "
+          },
+          {
+            "id": "8-1",
+            "text": "Ya blada ya 'ahlaa albilad ya blada fadakaa 'iinaa walwilad ya blada blada ya blada blada ya blada ya hbybta ya misr ya misr ya hbybta ya misr ya misr x2"
+          }
+        ],
+        "title": "Ya Habeebty Ya Masr"
+      },
+      "lyrics": [
+        { "id": "0-1", "text": "يا بلادى يا احلى البلاد يا بلادى" },
+        { "id": "0-2", "text": "\nفداكى انا والولاد يا بلادى" },
+        { "id": "0-3", "text": "\nبلادى يا بلادى" },
+        { "id": "0-4", "text": "\nبلادى يا بلادى" },
+        { "id": "0-5", "text": "\nيا حبيبتى يا مصر يا مصر" },
+        { "id": "0-6", "text": "\nيا حبيبتى يا مصر يا مصر" },
+        { "id": "1-1", "text": "ما شفش الامل ف عيون الولاد" },
+        { "id": "1-2", "text": "\nو صبايا البلد" },
+        { "id": "1-3", "text": "\nولا شاف العمل سهران ف البلاد" },
+        { "id": "1-4", "text": "\nو العزم اتولد" },
+        { "id": "2-1", "text": "ولا شاف النيل ف احضان الشجر" },
+        { "id": "2-2", "text": "\nولا سمع مواويل ف ليالى القمر" },
+        { "id": "2-3", "text": "\nاصله معداش على مصر" },
+        { "id": "2-4", "text": "\nاصله معداش على مصر" },
+        { "id": "3-1", "text": "يا حبيبتى يا مصر يا مصر" },
+        { "id": "3-2", "text": "\nيا حبيبتى يا مصر يا مصر " },
+        { "id": "4-1", "text": "يا بلادى يا احلى البلاد يا بلادى" },
+        { "id": "4-2", "text": "\nفداكى انا والولاد يا بلادى" },
+        { "id": "4-3", "text": "\nبلادى يا بلادى" },
+        { "id": "4-4", "text": "\nبلادى يا بلادى " },
+        { "id": "5-1", "text": "يا حبيبتى يا مصر يا مصر" },
+        { "id": "5-2", "text": "\nيا حبيبتى يا مصر يا مصر" },
+        { "id": "6-1", "text": "ما شفش الرجال السمر الشداد" },
+        { "id": "6-2", "text": "\nفوق كل المحن" },
+        { "id": "6-3", "text": "\nولا شاف العناد ف عيون الولاد" },
+        { "id": "6-4", "text": "\nو تحدى الزمن" },
+        { "id": "6-5", "text": "\nولا شاف اصرار ف عيون البشر" },
+        { "id": "6-6", "text": "\nبيقول احرار ولازم ننتصر" },
+        { "id": "7-1", "text": "اصله معداش على مصر" },
+        { "id": "7-2", "text": "\nاصله معداش على مصر" },
+        { "id": "8-1", "text": "يا حبيبتى يا مصر يا مصر" },
+        { "id": "8-2", "text": "\nيا حبيبتى يا مصر يا مصر " },
+        { "id": "9-1", "text": "يا بلادى يا احلى البلاد يا بلادى" },
+        { "id": "9-2", "text": "\nفداكى انا والولاد يا بلادى" },
+        { "id": "9-3", "text": "\nبلادى يا بلادى" },
+        { "id": "9-4", "text": "\nبلادى يا بلادى " },
+        { "id": "10-1", "text": "يا حبيبتى يا مصر يا مصر" },
+        { "id": "10-2", "text": "\nيا حبيبتى يا مصر يا مصر" }
+      ],
+      "title": "يا حبيبتي يا مصر"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/mohammed-abdel-wahab-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D8%A7%D8%B9%D8%AF-el-geal-el-saed-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D8%A7%D8%B9%D8%AF-el-geal-el-saed-rising-generation.html",
+          "id": "2604165",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "Long live the rising generation ... Long live!"
+            },
+            {
+              "id": "0-2",
+              "text": "\nA generation of an enduring people ... Long live!"
+            },
+            {
+              "id": "0-3",
+              "text": "\nLong may it live, building and struggling. Long may it live, with its eternal struggle."
+            },
+            { "id": "0-4", "text": "\nOne man. One principle." },
+            {
+              "id": "0-5",
+              "text": "\nLong live our revolution's generation - Long live!"
+            },
+            { "id": "1-1", "text": "Wardah:" },
+            {
+              "id": "1-2",
+              "text": "\nLong live the soldier on the day he smashed the thorn of colonialism."
+            },
+            {
+              "id": "1-3",
+              "text": "\nThe title of revolutionary victory was in every free country."
+            },
+            {
+              "id": "1-4",
+              "text": "\nAnd we heard him saying it with full force"
+            },
+            {
+              "id": "1-5",
+              "text": "\nin the name of a proud nation's principles:"
+            },
+            {
+              "id": "1-6",
+              "text": "\n\"I am a line of offense & defense. I am a symbol of peace and conflict."
+            },
+            {
+              "id": "1-7",
+              "text": "\nI sacrifice my soul, and I live in times of victory as a brave hero\""
+            },
+            { "id": "1-8", "text": "\nSalute with me. Say with me." },
+            {
+              "id": "1-9",
+              "text": "\nLong live the Arab soldier - Long live!"
+            },
+            { "id": "2-1", "text": "Najat As-Saghira:" },
+            {
+              "id": "2-2",
+              "text": "\nLong live the farmer on the day his eyes felt the heat of the sun."
+            },
+            {
+              "id": "2-3",
+              "text": "\nIt spread its light, and the plants grew as he protected them."
+            },
+            {
+              "id": "2-4",
+              "text": "\nAnd we heard him saying it with full force:"
+            },
+            {
+              "id": "2-5",
+              "text": "\n\"(This is) the land of my children, and it has returned to me!"
+            },
+            {
+              "id": "2-6",
+              "text": "\nThey deprived us for years and years. And thought the people were asleep."
+            },
+            {
+              "id": "2-7",
+              "text": "\nAnd we came out on them one day, and repaid the rights of millions.\""
+            },
+            { "id": "2-8", "text": "\nSalute with me, say with me" },
+            {
+              "id": "2-9",
+              "text": "\nLong live the farmer of the revolution - Long live!"
+            },
+            { "id": "3-1", "text": "Abd El-Halim Hafez:" },
+            {
+              "id": "3-2",
+              "text": "\nLong live the arts as a nation's civilisation, built by the artist."
+            },
+            {
+              "id": "3-3",
+              "text": "\nHe narrates its story in a melody, a word,"
+            },
+            { "id": "3-4", "text": "\nan image, with soul and with faith." },
+            {
+              "id": "3-5",
+              "text": "\nAnd we heard him say it with full force:"
+            },
+            {
+              "id": "3-6",
+              "text": "\n\"My country's glory is an oath borne upon me."
+            },
+            {
+              "id": "3-7",
+              "text": "\nMy heart and my soul are owned by my art, and both are, to my country, a gift.\""
+            },
+            { "id": "3-8", "text": "\nSalute with me, Say with me" },
+            {
+              "id": "3-9",
+              "text": "\nLong live art as a message - Long live!"
+            },
+            { "id": "4-1", "text": "Fayza Ahmad:" },
+            {
+              "id": "4-2",
+              "text": "\nLong live the worker that day he thought to build for his country a home."
+            },
+            {
+              "id": "4-3",
+              "text": "\nIn it are chimneys, spurting out from it flames and light and fire."
+            },
+            {
+              "id": "4-4",
+              "text": "\nAnd we heard him say it with full force:"
+            },
+            {
+              "id": "4-5",
+              "text": "\n\"This is my production, and what my hand has made."
+            },
+            {
+              "id": "4-6",
+              "text": "\nWe have achieved with the aid of God, for the people their prayer and their hopes."
+            },
+            {
+              "id": "4-7",
+              "text": "\nAnd goodness has increased and overflowed, and what has overflowed we exported.\""
+            },
+            { "id": "4-8", "text": "\nSay with me, Salute with me." },
+            {
+              "id": "4-9",
+              "text": "\nLong live, Long live, the worker, Long live!"
+            },
+            { "id": "5-1", "text": "Shadia:" },
+            {
+              "id": "5-2",
+              "text": "\nLong live the student that day he sought knowledge - a book and a weapon."
+            },
+            {
+              "id": "5-3",
+              "text": "\nHe knew that knowledge was a means by which every success can be reached."
+            },
+            {
+              "id": "5-4",
+              "text": "\nAnd we heard him say it with full force,"
+            },
+            { "id": "5-5", "text": "\nin high school and in college:" },
+            {
+              "id": "5-6",
+              "text": "\n\"Knowledge is a mighty weapon, it turns our night into day,"
+            },
+            {
+              "id": "5-7",
+              "text": "\nit travels towards light by light, and faces fire with fire.\""
+            },
+            { "id": "5-8", "text": "\nSalute with me, say with me." },
+            {
+              "id": "5-9",
+              "text": "\nLong live the rising generation - Long live!"
+            },
+            { "id": "6-1", "text": "Abd El-Wahaab:" },
+            {
+              "id": "6-2",
+              "text": "\nLong live all the Arab people, a people of peace & security"
+            },
+            {
+              "id": "6-3",
+              "text": "\nLong live the Arab consciousness, a revolution in every place."
+            },
+            { "id": "6-4", "text": "\nA rebellious revolution for freedom." },
+            {
+              "id": "6-5",
+              "text": "\nIt jumped up and called for nationalism."
+            },
+            {
+              "id": "6-6",
+              "text": "\nWe answered your call, O Gamal. Our hands in yours, O Gamal."
+            },
+            {
+              "id": "6-7",
+              "text": "\nAnd we ascended with you, O Gamal. We build with you, O Gamal."
+            },
+            { "id": "6-8", "text": "\nSalute with me, say with me." },
+            { "id": "6-9", "text": "\nLong live Abd El-Nasser - Long live!" }
+          ],
+          "title": "The rising generation"
+        }
+      ],
+      "id": "2506942",
+      "transliteration": { "id": null, "lyrics": null, "title": null },
+      "lyrics": [
+        { "id": "0-1", "text": "عاش الجيل الصاعد ... عاش" },
+        { "id": "0-2", "text": "\nجيل من شعب مجاهد ... عاش" },
+        { "id": "0-3", "text": "\nعاش يبني ويجاهد عاش بكفاحه الخالد" },
+        { "id": "0-4", "text": "\nراجل واحد مبدأ واحد" },
+        { "id": "0-5", "text": "\nعاش جيل ثورتنا عاش" },
+        { "id": "1-1", "text": "وردة:" },
+        { "id": "1-2", "text": "\nعاش الجندي يوم ما حطم شوكة الإستعمار" },
+        { "id": "1-3", "text": "\nكان عنوان النصر الثوري في كل بلد أحرار" },
+        { "id": "1-4", "text": "\nوسمعناه بيقولها قوية" },
+        { "id": "1-5", "text": "\nباسم مبادي أمة أبيّة" },
+        { "id": "1-6", "text": "\nانا خط هجوم ودفاع انا رمز سلام وصراع" },
+        { "id": "1-7", "text": "\nأفدي بالروح وأعيش في النصر بطل وشجاع" },
+        { "id": "1-8", "text": "\nحيوا معايا قولوا معايا" },
+        { "id": "1-9", "text": "\nعاش الجندي العربي عاش" },
+        { "id": "2-1", "text": "نجاة الصغيرة:" },
+        { "id": "2-2", "text": "\nعاش الزارع يوم الشمس ما حست بيها عينيّ" },
+        { "id": "2-3", "text": "\nفرشت نورها وكبر الزرع وهو مداري عليّ" },
+        { "id": "2-4", "text": "\nوسمعناه بيقولها قوية" },
+        { "id": "2-5", "text": "\nأرض ولادي ورجعت ليا" },
+        { "id": "2-6", "text": "\nحرمونا سنين وسنين وافتكروا الناس نايمين" },
+        { "id": "2-7", "text": "\nوطلعنا عليهم يوم خلصنا حقوق ملايين" },
+        { "id": "2-8", "text": "\nحيوا معايا قولوا معايا" },
+        { "id": "2-9", "text": "\nعاش فلاح الثورة عاش" },
+        { "id": "3-1", "text": "عبد الحليم حافظ:" },
+        { "id": "3-2", "text": "\nعاش الفن حضارة لأمة يبنيها الفنان" },
+        { "id": "3-3", "text": "\nيروي حياتها في غنوة في كلمة" },
+        { "id": "3-4", "text": "\nفي صورة بروح وإيمان" },
+        { "id": "3-5", "text": "\nوسمعناه بيقولها قوية" },
+        { "id": "3-6", "text": "\nمجد بلادي عهد عليا" },
+        { "id": "3-7", "text": "\nقلبي وروحي ملك لفني والإثنين لبلادي هدية" },
+        { "id": "3-8", "text": "\nحيوا معايا قولوا معايا" },
+        { "id": "3-9", "text": "\nعاش الفن رسالة عاش" },
+        { "id": "4-1", "text": "فايزة أحمد:" },
+        { "id": "4-2", "text": "\nعاش العامل يوم ما فكر يبني لبلده دار" },
+        { "id": "4-3", "text": "\nفيها مداخن طالع منها لهب النور والنار" },
+        { "id": "4-4", "text": "\nوسمعناه بيقولها قوية" },
+        { "id": "4-5", "text": "\nده إنتاجي وصنع إبديا" },
+        { "id": "4-6", "text": "\nحققنا بعون الله للشعب دعاه ومناه" },
+        { "id": "4-7", "text": "\nوالخير زاد منا وفاض والفايض صدرناه" },
+        { "id": "4-8", "text": "\nقولوا معايا حيوا معايا" },
+        { "id": "4-9", "text": "\nعاش عاش العامل عاش" },
+        { "id": "5-1", "text": "شادية:" },
+        { "id": "5-2", "text": "\nعاش الطالب يوم ما طلب العلم كتاب وسلاح" },
+        { "id": "5-3", "text": "\nعرف العلم وسيلة تحقق غاية كل نجاح" },
+        { "id": "5-4", "text": "\nوسمعناه بيقولها قوية" },
+        { "id": "5-5", "text": "\nفي الإعدادي وفي الكلية" },
+        { "id": "5-6", "text": "\nالعلم سلاح جبار بيحول ليلنا نهار" },
+        { "id": "5-7", "text": "\nيسعى للنور بالنور ويواجه النار بالنار" },
+        { "id": "5-8", "text": "\nحيوا معايا قولوا معايا" },
+        { "id": "5-9", "text": "\nعاش الجيل الصاعد عاش" },
+        { "id": "6-1", "text": "عبد الوهاب:" },
+        { "id": "6-2", "text": "\nعاش الشعب العربي كله شعب سلام وأمان" },
+        { "id": "6-3", "text": "\nعاش الوعي العربي كله ثورة في كل مكان" },
+        { "id": "6-4", "text": "\nثورة مارد للحرية" },
+        { "id": "6-5", "text": "\nهب ونادي بالقومية" },
+        { "id": "6-6", "text": "\nردينا عليك يا جمال وإيدينا ف إيديك يا جمال" },
+        { "id": "6-7", "text": "\nوطلعنا معاك يا جمال نبني وياك يا جمال" },
+        { "id": "6-8", "text": "\nحيوا معايا قولوا معايا" },
+        { "id": "6-9", "text": "\nعاش عبد الناصر عاش" }
+      ],
+      "title": "الجيل الصاعد"
+    },
+    {
+      "lang": "Arabic",
+      "link": "https://lyricstranslate.com/en/Hisham-Abbas-feat-Haifa-Wahbe-Hobi-Wa-Hobak-lyrics.html",
+      "englishTranslations": [
+        {
+          "link": "https://lyricstranslate.com/en/hobi-wa-hobak-%D9%8A%D8%A7-%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%AD%D8%A8%D9%8A-%D9%88%D8%AD%D8%A8%D9%83-my-love-and-your-love.html",
+          "id": "2039207",
+          "lyrics": [
+            {
+              "id": "0-1",
+              "text": "Wow from my love and your love, a promise, and it was destined for me to love you"
+            },
+            {
+              "id": "0-2",
+              "text": "\nI don't sleep the nights from your love, oh wow from my love and your love"
+            },
+            { "id": "0-3", "text": "\nWow from my love and your love" },
+            { "id": "1-1", "text": "Hisham 3abass/Abass:" },
+            {
+              "id": "1-2",
+              "text": "\nWow from my love and your love, it never crossed my mind to fall for you"
+            },
+            {
+              "id": "1-3",
+              "text": "\nI don't sleep the nights from your love, oh wow from my love and your love"
+            },
+            { "id": "1-4", "text": "\nWow from my love and your love" },
+            { "id": "2-1", "text": "Haifa:" },
+            {
+              "id": "2-2",
+              "text": "\nDarling, your love is driving me crazy and the longing fills me with scars"
+            },
+            {
+              "id": "2-3",
+              "text": "\nI swear by your life, get away from me and leave me to relax"
+            },
+            { "id": "3-1", "text": "Hisham Abass:" },
+            {
+              "id": "3-2",
+              "text": "\nAnd am I the one that's keeping you? It's my heart that's persistant"
+            },
+            { "id": "4-1", "text": "Haifa:" },
+            { "id": "4-2", "text": "\nYour love confuses me" },
+            { "id": "5-1", "text": "Hisham Abass:" },
+            { "id": "5-2", "text": "\nI am just like you" },
+            { "id": "6-1", "text": "Haifa:" },
+            { "id": "6-2", "text": "\nOh Lord, keep me patient" },
+            { "id": "7-1", "text": "Hisham Abass:" },
+            { "id": "7-2", "text": "\nYes, I am at his honor" },
+            { "id": "8-1", "text": "Haifa:" },
+            {
+              "id": "8-2",
+              "text": "\nForgive me because I love you and cannot sleep the nights from your love"
+            },
+            {
+              "id": "8-3",
+              "text": "\nWow from my love and your love, a promise, and it was destined for me to love you"
+            },
+            { "id": "8-4", "text": "\nWow from my love and your love" },
+            { "id": "9-1", "text": "Hisham Abass:" },
+            {
+              "id": "9-2",
+              "text": "\nI cannot live after knowing you, your shadow is beside me during my nights"
+            },
+            {
+              "id": "9-3",
+              "text": "\nAnd I say if the Lord were to take you from me, what would I do, my dear"
+            },
+            { "id": "10-1", "text": "Haifa:" },
+            {
+              "id": "10-2",
+              "text": "\nGod willing (the Lord takes) you my love, my happiness and my destiny"
+            },
+            { "id": "10-3", "text": "\nI will set fire to my soul, my dear" },
+            { "id": "11-1", "text": "Hisham Abass:" },
+            {
+              "id": "11-2",
+              "text": "\nNo watch your mouth, my dear, it is my duty"
+            },
+            { "id": "12-1", "text": "Haifa:" },
+            {
+              "id": "12-2",
+              "text": "\nFrom the moment my heart had loved you, I have not slept the nights from your love"
+            },
+            {
+              "id": "12-3",
+              "text": "\nWow from my love and your love, a promise, and it was destined for me to love you"
+            },
+            { "id": "12-4", "text": "\nWow from my love and your love" },
+            { "id": "13-1", "text": "Haifa:" },
+            { "id": "13-2", "text": "\nDo you love me, for real?" },
+            { "id": "14-1", "text": "Hisham Abass:" },
+            { "id": "14-2", "text": "\nWhat kind of talk is that, Haifa?" },
+            { "id": "15-1", "text": "Haifa:" },
+            { "id": "15-2", "text": "\nNow I have become happy" },
+            { "id": "16-1", "text": "Hisham Abass:" },
+            {
+              "id": "16-2",
+              "text": "\nMay all those who disagree be happy as we are happy"
+            },
+            { "id": "17-1", "text": "Haifa:" },
+            {
+              "id": "17-2",
+              "text": "\nSee my face? How it has turned yellow from your love"
+            },
+            { "id": "18-1", "text": "Hisham Abass:" },
+            {
+              "id": "18-2",
+              "text": "\nYou see my eyelids? How they have turned red from your love"
+            },
+            { "id": "19-1", "text": "Haifa:" },
+            {
+              "id": "19-2",
+              "text": "\nYou live, my dear, with me and be my life and my world"
+            },
+            {
+              "id": "19-3",
+              "text": "\nEnough love, enough, this isn't good for my health"
+            },
+            { "id": "20-1", "text": "Hisham Abass:" },
+            {
+              "id": "20-2",
+              "text": "\nWow from my love and your love, it never crossed my mind to fall for you"
+            },
+            { "id": "21-1", "text": "Haifa:" },
+            {
+              "id": "21-2",
+              "text": "\nWow from my love and your love, I don't sleep the nights from your love"
+            },
+            { "id": "22-1", "text": "Haifa & Hisham:" },
+            {
+              "id": "22-2",
+              "text": "\nWow from my love and your love, a promise, and it was destined for me to love you"
+            },
+            { "id": "22-3", "text": "\nWow from my love and your love" }
+          ],
+          "title": "From My Love and Your Love"
+        }
+      ],
+      "id": "78266",
+      "transliteration": {
+        "id": "custom-78267",
+        "lyrics": [
+          {
+            "id": "0-1",
+            "text": "Ya salam 3ala 7obi w 7obak wa3d w maktoub li a7ebak"
+          },
+          {
+            "id": "1-1",
+            "text": "W la namshi ellayl mn 7obak ya salam 3ala 7obi w 7obak"
+          },
+          { "id": "2-1", "text": "Ya salam 3ala 7obi w 7obak" },
+          {
+            "id": "3-1",
+            "text": "Ya salam 3ala 7obi w 7obek da ma kan 3ala bali a7ebek"
+          },
+          {
+            "id": "4-1",
+            "text": "W la namshi ellayl mn 7obek ya salam 3ala 7obi w 7obek"
+          },
+          { "id": "5-1", "text": "Ya salam 3ala 7obi w 7obek" },
+          {
+            "id": "6-1",
+            "text": "Ya 7abibi hawak ganeni wel shou2 malani gera7"
+          },
+          {
+            "id": "7-1",
+            "text": "W7yatak teb3ad 3annee wetseebni 3ashan erta7"
+          },
+          {
+            "id": "8-1",
+            "text": "W ana y3ni eli masek feeki ma ho albi eli mashghoul beeki"
+          },
+          { "id": "9-1", "text": "7obak 7ayarni" },
+          { "id": "10-1", "text": "Ana zayek bardou" },
+          { "id": "11-1", "text": "Rabbee sabarni" },
+          { "id": "12-1", "text": "Aiwa ana fe 3ardou" },
+          {
+            "id": "13-1",
+            "text": "E3zorni le2ani b7bak mabnamshi el layl mn 7obak"
+          },
+          {
+            "id": "14-1",
+            "text": "Ya salam 3ala 7obi w 7obak wa3d w maktoub li a7ebak"
+          },
+          { "id": "15-1", "text": "Ya salam 3ala 7obi w 7obak" },
+          {
+            "id": "16-1",
+            "text": "Mosh momken a3eesh mn ba3dek da khayalek gambi laylati"
+          },
+          {
+            "id": "17-1",
+            "text": "W b2oul law rabena yakhdek kont a3mel eih ya 7ayati"
+          },
+          {
+            "id": "18-1",
+            "text": "Enshallah enta ya 7abibi, ya hanaya w kol nasseebi"
+          },
+          { "id": "19-1", "text": "7awala3 fe rou7i ya albi w 3aynaya" },
+          { "id": "20-1", "text": "La ew3a ya rou7i da wageb 3alaya" },
+          {
+            "id": "21-1",
+            "text": "Mn sa3et albi ma 7abak ma bnamshi el layl mn 7obak"
+          },
+          {
+            "id": "22-1",
+            "text": "Ya salam 3ala 7obi w 7obak wa3d w maktoub li a7ebak"
+          },
+          { "id": "23-1", "text": "Ya salam 3ala 7obi w 7obak" },
+          { "id": "24-1", "text": "7abbeitni sa7ee7" },
+          { "id": "25-1", "text": "Da kalam bardou ya Haifa" },
+          { "id": "26-1", "text": "Aatareeni ba2eet far7hana" },
+          { "id": "27-1", "text": "3o2bal kol el 3ozaal yet-hanou zay hanana" },
+          { "id": "28-1", "text": "Shouf weshi esfar ezay mn 7obak" },
+          { "id": "29-1", "text": "Shoufi gefny e7mar ezay mn 7obek" },
+          {
+            "id": "30-1",
+            "text": "7at3eesh ya rou7i ma3aya w enta 7ayati w donyeti"
+          },
+          { "id": "31-1", "text": "Kefaya 7ob ekfaya a7san yodor sa7ti" },
+          {
+            "id": "32-1",
+            "text": "Ya salam 3ala 7obi w 7obek da ma kan 3ala bali a7ebek"
+          },
+          {
+            "id": "33-1",
+            "text": "Ya salam 3ala 7obi w 7obak mabnamshi ellayl mn 7obak"
+          },
+          {
+            "id": "34-1",
+            "text": "Ya salam 3ala 7obi w 7obak wa3d w maktoub li a7ebak"
+          },
+          { "id": "35-1", "text": "Ya salam 3ala 7obi w 7obak" }
+        ],
+        "title": "Hobi Wa Hobak"
+      },
+      "lyrics": [
+        { "id": "0-1", "text": "يا سلام على حبي وحبك وعد ومكتوب لي احبك" },
+        { "id": "0-2", "text": "\nولا نمشي الليل من حبك يا سلام على حبي وحبك" },
+        { "id": "0-3", "text": "\nيا سلام على حبك وحبك" },
+        { "id": "1-1", "text": ":هشام عباس" },
+        {
+          "id": "1-2",
+          "text": "\nيا سلام على حبي وحبك ده ماكان على بالي احبك"
+        },
+        { "id": "1-3", "text": "\nولا نمشي الليل من حبك يا سلام على حبي وحبك" },
+        { "id": "1-4", "text": "\nيا سلام على حبك وحبك" },
+        { "id": "2-1", "text": ":هيفاء" },
+        { "id": "2-2", "text": "\nيا حبيبي هواك جنني والشوق ملاني جراح" },
+        { "id": "2-3", "text": "\nوحياتك تبعد عني وتسبني عشان ارتاح" },
+        { "id": "3-1", "text": ":هشام عباس" },
+        {
+          "id": "3-2",
+          "text": "\nوانا يعني الماسك فيكي مه قلبي المشغوول بيكي."
+        },
+        { "id": "4-1", "text": ":هيفاء" },
+        { "id": "4-2", "text": "\nحبك حيرني" },
+        { "id": "5-1", "text": ":هشام عباس" },
+        { "id": "5-2", "text": "\nانا زيك برضه" },
+        { "id": "6-1", "text": ":هيفاء" },
+        { "id": "6-2", "text": "\nربي صبرني" },
+        { "id": "7-1", "text": ":هشام عباس" },
+        { "id": "7-2", "text": "\nايوة انا فعرضه" },
+        { "id": "8-1", "text": ":هيفاء" },
+        { "id": "8-2", "text": "\nاعدرني لاني بحبك مبنامشي الليل من حبك" },
+        { "id": "8-3", "text": "\nيا سلام على حبي وحبك وعد ومكتوب لي احبك" },
+        { "id": "8-4", "text": "\nيا سلام على حبك وحبك" },
+        { "id": "9-1", "text": ":هشام عباس" },
+        { "id": "9-2", "text": "\nمش ممكن اعيش من بعدك ده خيالك جمبي ليلاتي" },
+        { "id": "9-3", "text": "\nوبقول لو ربنا ياخدك كنت اعمل ايه يا حياتي" },
+        { "id": "10-1", "text": ":هيفاء" },
+        {
+          "id": "10-2",
+          "text": "\nان شاء الله انت يا حبيبيي يا هنايا وكل نصيبي"
+        },
+        { "id": "10-3", "text": "\nحاول افراحي يا قلبي وعنيا" },
+        { "id": "11-1", "text": ":هشام عباس" },
+        { "id": "11-2", "text": "\nلا اوعي يا روحي ده واجب عليا" },
+        { "id": "12-1", "text": ":هيفاء" },
+        { "id": "12-2", "text": "\nمن ساعة قلبي ما حبك مبنمشي الليل من حبك" },
+        { "id": "12-3", "text": "\nيا سلام على حبي وحبك وعد ومكتوب لي احبك" },
+        { "id": "12-4", "text": "\nيا سلام على حبك وحبك" },
+        { "id": "13-1", "text": ":هيفاء" },
+        { "id": "13-2", "text": "\nحبتني صحيح" },
+        { "id": "14-1", "text": ":هشام عباس" },
+        { "id": "14-2", "text": "\nده كلام برضه يا هيفا" },
+        { "id": "15-1", "text": ":هيفاء" },
+        { "id": "15-2", "text": "\nاتريني بقيت فرحانة" },
+        { "id": "16-1", "text": ":هشام عباس" },
+        { "id": "16-2", "text": "\nعقبال كل العزال يتهنوا زي هنانا" },
+        { "id": "17-1", "text": ":هيفاء" },
+        { "id": "17-2", "text": "\nشوف وشي اصفر ازاي من حبك" },
+        { "id": "18-1", "text": ":هشام عباس" },
+        { "id": "18-2", "text": "\nشوفي جفني احمر ازاي من حبك" },
+        { "id": "19-1", "text": ":هيفاء" },
+        { "id": "19-2", "text": "\nحتعيش يا روحي معايا وانت حياتي ودنيتي" },
+        { "id": "19-3", "text": "\nكفاية حب كفاية احسن يضر صحتي" },
+        { "id": "20-1", "text": ":هشام عباس" },
+        {
+          "id": "20-2",
+          "text": "\nيا سلام على حبي وحبك ده ماكان على بالي احبك"
+        },
+        { "id": "21-1", "text": ":هيفاء" },
+        { "id": "21-2", "text": "\nيا سلام على حبي وحبك مبنمشي الليل من حبك" },
+        { "id": "22-1", "text": ":هيفاء/هشام" },
+        { "id": "22-2", "text": "\nيا سلام على حبي وحبك وعد ومكتوب لي احبك" },
+        { "id": "22-3", "text": "\nيا سلام على حبك وحبك" }
+      ],
+      "title": "Hobi Wa Hobak (يا سلام على حبي وحبك)"
+    }
+  ]
+}
