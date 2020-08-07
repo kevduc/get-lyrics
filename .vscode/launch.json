@@ -8,8 +8,9 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
+      "outputCapture": "std",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\index.js"
+      "program": "${file}"
     }
   ]
 }
