@@ -8,7 +8,7 @@ const getArtistsLinks = require("./getArtistsLinks.js");
 const Node = {};
 Node.TEXT_NODE = 3;
 
-const dataFolder = "./data";
+const dataLyricsFolder = "./data/data-lyrics";
 
 module.exports = async () => {
   let urls = await getArtistsLinks();
@@ -75,7 +75,7 @@ async function getData(url) {
   // Get data
   let data;
   const songsFilename = `${artist}.json`; // TODO: consider limiting path length to 255 chars for Windows
-  const songsFile = `${dataFolder}/${songsFilename}`;
+  const songsFile = `${dataLyricsFolder}/${songsFilename}`;
 
   if (fs.existsSync(songsFile)) {
     console.log(`Songs data for ${artist} already downloaded.`);

@@ -3,7 +3,7 @@ const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 const fs = require("fs");
 
-const artistsLinksFile = "./artistsLinks.json";
+const artistsLinksFile = "./data/artistsLinks.json";
 
 module.exports = async () => {
   if (fs.existsSync(artistsLinksFile)) {

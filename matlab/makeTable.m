@@ -1,6 +1,6 @@
 function [tableTotal, tableTotalStacked] = makeTable(dataFile)
 if nargin == 0
-    dataFile = "../data-compiled.json";
+    dataFile = "../data/data-compiled.json";
 end
 
 % t = table('Size', [0 4], 'VariableTypes', ["string","string","string","string"], 'VariableNames', ["arabic", "arabicIDs", "english", "englishIDs"]);

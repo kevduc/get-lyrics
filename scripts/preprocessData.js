@@ -1,6 +1,6 @@
 const fs = require("fs");
-const dataFolder = "./data";
-const dataPreProcessedFolder = "./data-preprocessed";
+const dataLyricsFolder = "./data/data-lyrics";
+const dataPreProcessedFolder = "./data/data-preprocessed";
 
 module.exports = () => {
   if (!fs.existsSync(dataPreProcessedFolder)) {
@@ -8,12 +8,12 @@ module.exports = () => {
   }
 
   let jsonFiles = fs
-    .readdirSync(dataFolder)
+    .readdirSync(dataLyricsFolder)
     .filter((filename) => filename.search(/\.json$/) != -1);
 
   jsonFiles.forEach((file) => {
     console.log(`Pre-processing ${file}`);
-    let rawdata = fs.readFileSync(`${dataFolder}/${file}`);
+    let rawdata = fs.readFileSync(`${dataLyricsFolder}/${file}`);
     data = JSON.parse(rawdata);
 
     data = data.songs.map((song) => ({

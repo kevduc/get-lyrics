@@ -1,6 +1,6 @@
 const fs = require("fs");
-const dataPreProcessedFolder = "./data-preprocessed";
-const dataCompiledFile = "./data-compiled.json";
+const dataPreProcessedFolder = "./data/data-preprocessed";
+const dataCompiledFile = "./data/data-compiled.json";
 
 module.exports = () => {
   let dataCompiled = [];
