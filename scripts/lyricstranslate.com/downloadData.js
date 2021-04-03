@@ -10,6 +10,23 @@ Node.TEXT_NODE = 3;
 
 const dataLyricsFolder = "./data/data-lyrics";
 
+// async function test() {
+//   let urls = getArtistsLinks();
+//   return urls;
+// }
+
+// function notAsync() {
+//   urls.forEach(async (url, i) => {
+//     console.log(`Progress: ${i + 1}/${urls.length}`);
+//     let data = await getData(url);
+//   });
+// }
+
+// module.exports = async () => {
+//   test();
+//   notAsync()
+// }
+
 module.exports = async () => {
   let urls = await getArtistsLinks();
   urls.forEach(async (url, i) => {
