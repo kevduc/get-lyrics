@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["crawler", "javascript", "lyrics", "egyptian", "arabic", "english", "translation", "data", "matlab", "model", "machine learning"],
+  "author": "kevduc",
   "license": "ISC",
   "dependencies": {
     "jsdom": "^16.3.0",
