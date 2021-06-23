@@ -2,9 +2,9 @@
   "name": "get-lyrics",
   "version": "1.0.0",
   "description": "The data is gathered from translations of Egyptian songs on lyrics websites.\r This is achieved using the JavaScript scripts in the `scripts` folder, executed with Node.",
-  "main": "index.js",
+  "main": "./scripts/lyricstranslate.com/index.js",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./scripts/lyricstranslate.com/index.js"
   },
   "keywords": [
     "crawler",
