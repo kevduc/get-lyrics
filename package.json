@@ -1,17 +1,38 @@
 {
   "name": "get-lyrics",
   "version": "1.0.0",
-  "description": "",
+  "description": "The data is gathered from translations of Egyptian songs on lyrics websites.\r This is achieved using the JavaScript scripts in the `scripts` folder, executed with Node.",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
   },
-  "keywords": ["crawler", "javascript", "lyrics", "egyptian", "arabic", "english", "translation", "data", "matlab", "model", "machine learning"],
+  "keywords": [
+    "crawler",
+    "javascript",
+    "lyrics",
+    "egyptian",
+    "arabic",
+    "english",
+    "translation",
+    "data",
+    "matlab",
+    "model",
+    "machine learning"
+  ],
   "author": "kevduc",
   "license": "ISC",
   "dependencies": {
     "jsdom": "^16.3.0",
     "node-fetch": "^2.6.0",
     "p-queue": "^6.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevduc/get-lyrics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevduc/get-lyrics/issues"
+  },
+  "homepage": "https://github.com/kevduc/get-lyrics#readme"
 }
