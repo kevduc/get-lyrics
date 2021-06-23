@@ -1,4 +1,4 @@
-# Gathering data for an Egyptian Arabic <-> English translation model 💬
+# Gathering data for an `Egyptian Arabic ↔ English` translation model 💬
 
 The data is gathered from translations of Egyptian songs on lyrics websites.
 This is achieved using the JavaScript scripts in the `scripts` folder, executed with Node.
@@ -12,6 +12,8 @@ This is achieved using the JavaScript scripts in the `scripts` folder, executed 
 3. 📜 `preprocessData.js` splits the verse ID from its text into 2 arrays. It does this for every songs of every artists, so it's easier to compile the data afterwards.
 
 4. 📜 `compileData.js` compiles the data into 2 arrays of sentences, one containing all the Arabic verses and one containing all the English verses. It's aligning the data, e.g. it's matching the verse ID from each language so that the sentence at index i of the English array corresponds to the translation of the sentence at index i in the Arabic array.
+
+> ℹ A snapshot of the data is saved for every step of the process, so the data required by a specific step won't be downloaded again when a snapshot exists.
 
 ## ⚙ Using the data
 The model will be trained using MATLAB, the data can then be imported as a table.  
