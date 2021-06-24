@@ -24,10 +24,10 @@ This is achieved using the JavaScript scripts in the `scripts` folder, executed 
 > ℹ A snapshot of the data is saved for every step of the process, so the data required by a specific step won't be downloaded again when a snapshot exists.
 
 ### ⚙ Using the data
-The model will be trained using MATLAB, the data can then be imported as a table.  
+The data can then be imported as a table in MATLAB to train a transformer model.  
 In the `matlab` folder:
 - 🔠 `tableTotal.mat` contains all the Egyptian Arabic - English sentence pairs, it's the table that will be used for training
-- 📜 `makeTable.m` generates this table. This script imports the JSON data as a table in MATLAB.
+- 📜 `makeTable.m` generates the table. This script imports the JSON data as a table in MATLAB.
 
 ## Other potential websites
 - [arabicmusictranslation.com](http://www.arabicmusictranslation.com/)
